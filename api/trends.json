@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T19:20:13.604984+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-10-19T21:32:47.373480+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时50分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时50分 ~ 21时32分]"
         },
         {
           "title": "美乌总统会晤，特朗普数次语气强硬",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 20时46分]"
         },
         {
           "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时06分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[10时06分 ~ 20时46分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -111,6 +111,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时29分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 21时32分]"
         },
         {
           "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
@@ -149,8 +160,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 20时46分]"
         },
         {
           "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
@@ -188,11 +199,13 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 21时32分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -221,19 +234,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时36分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 20时46分]"
         },
         {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
+          "title": "全美700万人涌上街头抗议特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
           "ranks": [
-            1
+            5,
+            8,
+            7,
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时32分]"
         },
         {
           "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
@@ -317,6 +334,19 @@
           "time_info": "[15时22分 ~ 18时25分]"
         },
         {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
           "url": "https://flash.jin10.com/detail/20251019105221054800",
           "source": "金十数据",
@@ -358,19 +388,6 @@
           "time_info": "[13时26分 ~ 17时24分]"
         },
         {
-          "title": "全美700万人涌上街头抗议特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时20分]"
-        },
-        {
           "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
           "url": "https://news.ifeng.com/c/8nZlMrsz6GV",
           "source": "凤凰网",
@@ -393,17 +410,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时22分 ~ 11时50分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
-          "url": "https://flash.jin10.com/detail/20251019180608570800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "特朗普政府“调整”关税策略",
@@ -443,6 +449,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时29分 ~ 15时22分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
+          "url": "https://flash.jin10.com/detail/20251019180608570800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时32分]"
         },
         {
           "title": "特朗普建议俄乌以现在战线为准停火",
@@ -485,16 +504,15 @@
           "time_info": "[15时22分 ~ 17时24分]"
         },
         {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "time_info": "[20时46分 ~ 21时32分]"
         },
         {
           "title": "特朗普称不打算供乌战斧导弹",
@@ -540,6 +558,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时30分]"
+        },
+        {
+          "title": "特朗普：哥伦比亚将不再获得美国补贴。",
+          "url": "https://flash.jin10.com/detail/20251019204809018800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普：将不再向哥伦比亚提供补贴。",
+          "url": "https://wallstreetcn.com/livenews/2990176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "特朗普口中的美军行动有多离谱",
@@ -599,6 +639,18 @@
           "time_info": "[10时06分 ~ 16时29分]"
         },
         {
+          "title": "金价涨了，印度人节日买金习惯变了",
+          "url": "https://news.ifeng.com/c/8na31dSR83g",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时32分]"
+        },
+        {
           "title": "中美通话如何影响黄金价格",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
@@ -619,23 +671,13 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时20分]"
-        },
-        {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
+            7,
+            18,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时20分]"
+          "time_info": "[18时25分 ~ 21时32分]"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -662,76 +704,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2173368",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 19时20分]"
-        },
-        {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 10时07分]"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 14时36分]"
-        },
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时20分]"
-        },
-        {
-          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
-          "url": "https://flash.jin10.com/detail/20251019091747896800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 13时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗谴责以色列违反加沙停火协议，并批评其拒绝履行重新开放拉法口岸的承诺",
@@ -763,6 +737,40 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
+          "url": "https://wallstreetcn.com/livenews/2990182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
+          "url": "https://flash.jin10.com/detail/20251019211835771800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "伊朗检察官：一名被指控为以色列从事间谍活动的人员已于周六被处决。",
+          "url": "https://flash.jin10.com/detail/20251019201404989800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时32分]"
+        },
+        {
           "title": "伊朗谴责以色列违反加沙停火协议",
           "url": "https://www.toutiao.com/trending/7561596444025618486/",
           "source": "今日头条",
@@ -772,6 +780,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2173368",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 20时46分]"
+        },
+        {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 10时07分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 14时36分]"
+        },
+        {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 21时32分]"
+        },
+        {
+          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
+          "url": "https://flash.jin10.com/detail/20251019091747896800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时26分]"
         }
       ]
     },
