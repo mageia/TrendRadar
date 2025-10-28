@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:30:47.895833+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2025-10-28T15:19:53.395383+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -91,6 +91,17 @@
           "time_info": "09时30分"
         },
         {
+          "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
+          "url": "https://flash.jin10.com/detail/20251028145714701800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
           "url": "https://flash.jin10.com/detail/20251028090353703800",
           "source": "金十数据",
@@ -100,6 +111,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            8,
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时19分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -141,31 +179,6 @@
           "time_info": "[09时30分 ~ 13时20分]"
         },
         {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 14时30分]"
-        },
-        {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 14时30分]"
-        },
-        {
           "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
           "url": "https://flash.jin10.com/detail/20251028054741724800",
           "source": "金十数据",
@@ -190,6 +203,20 @@
           "time_info": "[07时18分 ~ 12时24分]"
         },
         {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时19分]"
+        },
+        {
           "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
           "url": "https://news.ifeng.com/c/8nnpTggasmR",
           "source": "凤凰网",
@@ -207,19 +234,6 @@
           "ranks": [
             14,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            27,
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -410,7 +424,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -525,6 +539,17 @@
           "time_info": "11时09分"
         },
         {
+          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
+          "url": "https://www.toutiao.com/trending/7566111913025900074/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "高市早苗会见特朗普 现场奏美国国歌",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
           "source": "百度热搜",
@@ -553,6 +578,17 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时19分]"
+        },
+        {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
           "url": "https://www.cls.cn/detail/2182682",
           "source": "财联社热门",
@@ -564,17 +600,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时18分 ~ 14时30分]"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 14时30分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -672,6 +697,89 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时19分]"
+        },
+        {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时19分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26stream_entry_id%3D31%26dgr%3D0%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D21%26display_time%3D1761614667%26pre_seqid%3D176161466794901954904122",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 11时09分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）上海金早盘价为914.25元/克，较国际金价(913.54元/克)，高0.71元/克",
+          "url": "https://flash.jin10.com/detail/20251028103346925800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
+          "url": "https://flash.jin10.com/detail/20251028144551726800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金价是由什么决定的",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%98%AF%E7%94%B1%E4%BB%80%E4%B9%88%E5%86%B3%E5%AE%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -744,67 +852,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 14时30分]"
-        },
-        {
-          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
-          "url": "https://wallstreetcn.com/articles/3758018",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 14时30分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26stream_entry_id%3D31%26dgr%3D0%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D21%26display_time%3D1761614667%26pre_seqid%3D176161466794901954904122",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 11时09分]"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）上海金早盘价为914.25元/克，较国际金价(913.54元/克)，高0.71元/克",
-          "url": "https://flash.jin10.com/detail/20251028103346925800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "金价是由什么决定的",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%98%AF%E7%94%B1%E4%BB%80%E4%B9%88%E5%86%B3%E5%AE%9A%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -813,11 +860,12 @@
           "url": "https://flash.jin10.com/detail/20251028141734494800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
