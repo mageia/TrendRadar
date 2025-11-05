@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T06:19:08.187703+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-11-06T07:20:50.906648+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -15,30 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "特朗普再次对尼日利亚发出威胁",
-          "url": "https://flash.jin10.com/detail/20251106061021528800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
+          "url": "https://wallstreetcn.com/livenews/3000155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "特朗普：已指示国防部对核武器进行测试",
-          "url": "https://flash.jin10.com/detail/20251106060815768800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "标普500指数涨0.35%，道指微跌，纳指涨0.61%，半导体指数涨2.45%。 美国最高法院似乎怀疑总统特朗普关税的合法性。",
@@ -59,8 +48,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普再次对尼日利亚发出威胁",
+          "url": "https://flash.jin10.com/detail/20251106061021528800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普：已指示国防部对核武器进行测试",
+          "url": "https://flash.jin10.com/detail/20251106060815768800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -70,8 +83,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "time_info": "[06时18分 ~ 07时20分]"
         },
         {
           "title": "纽约新市长为何成特朗普的“噩梦”",
@@ -86,15 +110,16 @@
           "time_info": "[00时26分 ~ 06时19分]"
         },
         {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
+          "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
+          "url": "https://flash.jin10.com/detail/20251106054434301800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时18分 ~ 06时19分]"
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "特朗普新推的美联储理事米兰：美联储货币政策太具有限制性了，与中性距离太遥远",
@@ -106,17 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
-          "url": "https://flash.jin10.com/detail/20251106054434301800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
         },
         {
           "title": "为结束政府“停摆” 美国会民主党领袖呼吁特朗普开始会谈",
@@ -147,7 +161,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -169,7 +183,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -177,7 +191,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -187,8 +201,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -199,41 +224,55 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
           "url": "https://wallstreetcn.com/livenews/3000125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/3000124",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "Metsera美股盘后涨6.8%。",
           "url": "https://wallstreetcn.com/livenews/3000123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         },
         {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
@@ -242,7 +281,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -253,7 +292,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -264,7 +303,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -275,7 +314,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -286,7 +325,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -297,7 +336,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -325,7 +364,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -387,7 +426,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
