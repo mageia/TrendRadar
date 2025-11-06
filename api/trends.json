@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T13:22:09.225077+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2025-11-06T14:31:55.520786+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
@@ -53,22 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时22分]"
-        },
-        {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时18分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "特朗普的大麻烦来了",
@@ -79,8 +65,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 14时31分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时18分 ~ 14时31分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -90,8 +91,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 14时31分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -233,6 +234,17 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
+          "url": "https://flash.jin10.com/detail/20251106140838691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "特朗普新推的美联储理事米兰：美联储货币政策太具有限制性了，与中性距离太遥远",
           "url": "https://wallstreetcn.com/livenews/3000013",
           "source": "华尔街见闻-快讯",
@@ -275,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
+          "url": "https://flash.jin10.com/detail/20251106140101223800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
@@ -347,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时31分]"
         },
         {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
@@ -357,11 +380,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -384,8 +408,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -526,6 +550,68 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时27分]"
+        },
+        {
+          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
+          "url": "https://flash.jin10.com/detail/20251106140725860800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
+          "url": "https://flash.jin10.com/detail/20251106140533490800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
+          "url": "https://flash.jin10.com/detail/20251106104149768800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -536,7 +622,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -627,8 +713,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -655,38 +741,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3000270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时27分]"
-        },
-        {
-          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
-          "url": "https://flash.jin10.com/detail/20251106104149768800",
+          "title": "美元指数DXY失守100，日内跌幅0.12%。",
+          "url": "https://flash.jin10.com/detail/20251106140451205800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "time_info": "14时31分"
+        },
         {
           "title": "美元指数5日微跌",
           "url": "https://flash.jin10.com/detail/20251106052645207800",
