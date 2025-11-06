@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-06T14:31:55.520786+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2025-11-06T15:20:01.613743+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 15时20分]"
+        },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 12时27分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -57,6 +57,17 @@
           "time_info": "[09时26分 ~ 14时31分]"
         },
         {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 15时20分]"
+        },
+        {
           "title": "特朗普的大麻烦来了",
           "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
           "source": "凤凰网",
@@ -80,19 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时18分 ~ 14时31分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 14时31分]"
+          "appearance_count": 13,
+          "time_info": "[06时18分 ~ 15时20分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -139,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -240,7 +251,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -295,7 +306,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -361,6 +372,20 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 15时20分]"
+        },
+        {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
           "url": "https://www.cls.cn/detail/2192424",
           "source": "财联社热门",
@@ -374,18 +399,17 @@
           "time_info": "[07时20分 ~ 14时31分]"
         },
         {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            5,
-            4,
-            6
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 14时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 15时20分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -397,19 +421,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -558,11 +569,12 @@
           "url": "https://wallstreetcn.com/livenews/3000351",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时20分]"
         },
         {
           "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
@@ -583,7 +595,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -594,7 +606,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -613,7 +625,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
@@ -636,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3000356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
@@ -713,8 +736,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 14时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 15时20分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -751,7 +774,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
