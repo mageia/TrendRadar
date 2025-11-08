@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T21:25:32.319863+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-11-08T22:17:55.002570+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -20,6 +20,20 @@
           "time_info": "[09时24分 ~ 16时25分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时17分 ~ 22时17分]"
+        },
+        {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
@@ -31,18 +45,16 @@
           "time_info": "[00时21分 ~ 09时24分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时17分 ~ 21时25分]"
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 22时17分]"
         },
         {
           "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
@@ -74,18 +86,6 @@
           "time_info": "[00时21分 ~ 07时19分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时19分 ~ 21时25分]"
-        },
-        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -106,11 +106,23 @@
           "ranks": [
             1,
             4,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时17分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
+          "url": "https://wallstreetcn.com/livenews/3001591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -151,6 +163,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时24分 ~ 13时18分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时17分]"
         },
         {
           "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
@@ -253,17 +276,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时18分 ~ 21时25分]"
-        },
-        {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时25分]"
         },
         {
           "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
@@ -440,8 +452,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时18分 ~ 21时25分]"
+          "appearance_count": 17,
+          "time_info": "[07时18分 ~ 22时17分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -653,8 +665,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时19分 ~ 21时25分]"
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 22时17分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -698,8 +710,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时25分]"
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 22时17分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
