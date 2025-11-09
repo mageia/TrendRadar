@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T07:17:09.216794+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-11-09T09:29:38.443199+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,17 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
-          "url": "https://flash.jin10.com/detail/20251108220636044800",
-          "source": "金十数据",
+          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
+          "url": "https://wallstreetcn.com/articles/3758973",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 09时29分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -26,20 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
-          "url": "https://wallstreetcn.com/articles/3758973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 09时29分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -49,8 +39,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 09时29分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
+          "url": "https://flash.jin10.com/detail/20251108220636044800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时29分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -58,11 +60,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时29分]"
+        },
+        {
+          "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
+          "url": "https://wallstreetcn.com/articles/3758966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "time_info": "[07时16分 ~ 09时29分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -85,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
-          "url": "https://wallstreetcn.com/articles/3758966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
         }
       ]
     },
@@ -122,11 +126,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时29分]"
         }
       ]
     },
@@ -140,11 +145,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 09时29分]"
         }
       ]
     },
@@ -157,11 +163,12 @@
           "url": "https://wallstreetcn.com/articles/3758965",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 09时29分]"
         }
       ]
     },
@@ -176,11 +183,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 09时29分]"
         }
       ]
     }
