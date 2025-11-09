@@ -1,44 +1,69 @@
 {
-  "generated_at": "2025-11-10T00:21:35.790214+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-10T06:17:50.600055+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
-          "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
-          "url": "https://flash.jin10.com/detail/20251109225052216800",
+          "title": "特朗普政府要求各州撤回全额食品援助",
+          "url": "https://flash.jin10.com/detail/20251110053737053800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "06时17分"
+        },
+        {
+          "title": "参议院公布三项立法草案，作为结束特朗普政府停摆提案的一部分",
+          "url": "https://wallstreetcn.com/livenews/3001731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
           "url": "https://wallstreetcn.com/articles/3758981",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
+          "url": "https://flash.jin10.com/detail/20251109225052216800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普和鲁比奥：你们“小心点”。（澎湃）",
           "url": "https://wallstreetcn.com/livenews/3001704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -48,8 +73,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时17分]"
         },
         {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
@@ -63,6 +99,28 @@
           "time_info": "00时21分"
         },
         {
+          "title": "特朗普称关税将使大多数美国人获得至少2000美元补助",
+          "url": "https://flash.jin10.com/detail/20251110042444036800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美国参议院共和党披露一份立法草案，其中包括在（总统特朗普的）政府关门期间要求向退伍军人事务部（DVA）和军事建设项目提供资金支持。",
+          "url": "https://wallstreetcn.com/livenews/3001714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
           "url": "https://flash.jin10.com/detail/20251109203040228800",
           "source": "金十数据",
@@ -74,15 +132,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "拜登狠批特朗普",
-          "url": "https://www.douyin.com/hot/2300132",
-          "source": "抖音",
+          "title": "美国共和党的开支草案包含扭转（政府关门期间实施的）裁员行动的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3001713",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "06时17分"
         },
         {
           "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
@@ -107,6 +165,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "因剪辑拼接与1月6日国会山暴乱相关的特朗普视频，英国BBC高管辞职",
+          "url": "https://wallstreetcn.com/livenews/3001718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
           "url": "https://flash.jin10.com/detail/20251109183325380800",
           "source": "金十数据",
@@ -116,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "因剪辑拼接特朗普视频 英国广播公司高管辞职",
+          "url": "https://flash.jin10.com/detail/20251110040113414800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
@@ -142,8 +222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     },
@@ -156,11 +236,29 @@
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗将启动货币改革，删除面值末四个零",
+          "url": "https://wallstreetcn.com/livenews/3001716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "06时17分"
         }
       ]
     }
