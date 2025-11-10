@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:32:10.606612+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-11-10T22:20:38.921866+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时32分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[14时32分 ~ 22时20分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -372,7 +372,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -443,6 +443,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "以色列政府发言人：关于被困哈马斯武装人员的任何决定都将与特朗普政府合作作出。",
+          "url": "https://flash.jin10.com/detail/20251110214623760800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "因剪辑拼接与1月6日国会山暴乱相关的特朗普视频，英国BBC高管辞职",
           "url": "https://wallstreetcn.com/livenews/3001718",
           "source": "华尔街见闻-快讯",
@@ -452,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "以色列政府发言人：以色列总理内塔尼亚胡与库什纳（特朗普女婿）讨论了解除哈马斯武装、加沙非军事化，以及确保哈马斯今后永远无法在加沙发挥作用等问题。",
+          "url": "https://flash.jin10.com/detail/20251110214600198800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "拜登为什么罕见出面痛批特朗普",
@@ -545,7 +567,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -569,11 +591,12 @@
             9,
             5,
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 22时20分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -617,11 +640,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 22时20分]"
         },
         {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
@@ -656,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -668,11 +703,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "金价",
@@ -724,8 +760,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[19时17分 ~ 22时20分]"
         },
         {
           "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
