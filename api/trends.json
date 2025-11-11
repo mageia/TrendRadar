@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:25:06.498698+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2025-11-11T13:20:28.592700+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时20分]"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时20分]"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -436,8 +436,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时20分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -449,8 +449,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 12时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 13时20分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -462,8 +462,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 13时20分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -477,6 +477,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时20分]"
+        },
+        {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
@@ -487,17 +498,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 12时25分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -653,6 +653,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
           "title": "美国联邦通信委员会（FCC）主席：谷歌和迪士尼需要达成协议，结束这场网络封锁。（因双方在续约协议上仍存在巨大分歧，迪士尼旗下的ESPN及ABC等频道将停止在谷歌YouTube TV上播出。）",
           "url": "https://flash.jin10.com/detail/20251111065415499800",
           "source": "金十数据",
@@ -664,24 +676,13 @@
           "time_info": "07时19分"
         },
         {
-          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
-          "url": "https://flash.jin10.com/detail/20251111115436400800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
           "url": "https://flash.jin10.com/detail/20251111115423827800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
