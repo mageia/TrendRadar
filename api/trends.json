@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-11T16:27:24.703558+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-11-11T17:22:12.218639+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时14分 ~ 17时22分]"
+        },
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
           "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 09时27分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 16时27分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -115,6 +126,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 06时20分]"
+        },
+        {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
@@ -487,6 +520,21 @@
           "time_info": "[09时27分 ~ 15时20分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时14分 ~ 17时22分]"
+        },
+        {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
           "url": "https://www.cls.cn/detail/2196552",
           "source": "财联社热门",
@@ -511,20 +559,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 14时31分]"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 16时27分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -700,7 +734,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年11月11日（周二）上海金午盘价为946.77元/克，较国际金价(945.51元/克)，高1.26元/克",
@@ -725,6 +759,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -770,11 +815,12 @@
           "url": "https://news.ifeng.com/c/8oCBAFytiMm",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 17时22分]"
         },
         {
           "title": "伊朗货币改革将启动：删除4个0",
