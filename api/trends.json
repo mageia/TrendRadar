@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T07:18:41.781058+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-11-12T09:26:46.665930+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -41,13 +41,24 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
           "url": "https://flash.jin10.com/detail/20251112070247139800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -61,6 +72,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普回应高市早苗涉台言论",
+          "url": "https://www.douyin.com/hot/2302972",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 09时26分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -98,29 +136,17 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
-          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
-          "source": "澎湃新闻",
+          "title": "特朗普回应高市早苗涉台错误言论",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D13%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D0%26dgr%3D0%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E6%25B6%2589%25E5%258F%25B0%25E9%2594%2599%25E8%25AF%25AF%25E8%25A8%2580%25E8%25AE%25BA%2523%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26band_rank%3D13%26display_time%3D1762899489%26pre_seqid%3D176289948939203366786&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普回应高市早苗涉台言论",
-          "url": "https://www.douyin.com/hot/2302972",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
+            13,
+            14,
             20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时26分 ~ 07时18分]"
+          "time_info": "[06时21分 ~ 09时26分]"
         },
         {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
@@ -129,18 +155,6 @@
           "ranks": [
             9,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普回应高市早苗涉台错误言论",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D13%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D0%26dgr%3D0%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E6%25B6%2589%25E5%258F%25B0%25E9%2594%2599%25E8%25AF%25AF%25E8%25A8%2580%25E8%25AE%25BA%2523%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26band_rank%3D13%26display_time%3D1762899489%26pre_seqid%3D176289948939203366786&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -157,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普宣称美国不再资助乌克兰",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
@@ -176,9 +201,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美国总统特朗普：我们将降低一些咖啡关税。",
+          "url": "https://flash.jin10.com/detail/20251112083626942800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及是否会起诉英国广播公司）我想我不得不这么做。",
+          "url": "https://flash.jin10.com/detail/20251112083438495800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
+          "url": "https://wallstreetcn.com/livenews/3003054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "瑞银：特朗普提出的50年期抵押贷款将使整个贷款期的利息成本翻倍",
@@ -214,6 +272,50 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普：美国需要一些有才华的外国工人。",
+          "url": "https://wallstreetcn.com/livenews/3003050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰",
+          "url": "https://www.douyin.com/hot/2303153",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普夸赞沙拉：他是个硬汉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普：将降低部分咖啡关税。",
+          "url": "https://wallstreetcn.com/livenews/3003047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "据华尔街日报：知情人士透露，房利美监督人员正在调查特朗普任命的联邦住房金融局局长普尔特是否不当获取了包括纽约总检察长在内的关键民主党官员的抵押贷款记录。消息人士称，对普尔特的调查已升级至监察长，并已移交检察官。",
           "url": "https://flash.jin10.com/detail/20251112045606789800",
           "source": "金十数据",
@@ -225,13 +327,24 @@
           "time_info": "06时21分"
         },
         {
+          "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112075535490800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "特朗普宣布：赦免75名支持者",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B5%A6%E5%85%8D75%E5%90%8D%E6%94%AF%E6%8C%81%E8%80%85",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -252,6 +365,18 @@
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 09时26分]"
+        },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
           "url": "https://wallstreetcn.com/livenews/3002988",
@@ -275,17 +400,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时18分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -335,8 +449,31 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 09时26分]"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
           "url": "https://flash.jin10.com/detail/20251112060435250800",
@@ -362,17 +499,6 @@
           "time_info": "[06时21分 ~ 07时18分]"
         },
         {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
           "url": "https://wallstreetcn.com/livenews/3002981",
           "source": "华尔街见闻-快讯",
@@ -383,6 +509,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时18分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -448,7 +585,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         },
@@ -491,6 +628,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
