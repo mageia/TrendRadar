@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:30:38.721273+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2025-11-12T15:20:31.489746+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
@@ -15,11 +15,12 @@
             4,
             1,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时30分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时20分]"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
@@ -31,11 +32,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 14时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 15时20分]"
         },
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -383,7 +385,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -397,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "评论员：明年中期选举特朗普或遇挫",
+          "url": "https://www.toutiao.com/trending/7570679186156077097/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
@@ -425,8 +438,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时18分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 15时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -513,8 +526,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 14时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 15时20分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -526,8 +539,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时30分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时20分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -600,7 +613,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -714,6 +727,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26flag%3D1%26lcate%3D5001%26band_rank%3D7%26pos%3D6%26c_type%3D31%26display_time%3D1762928885%26pre_seqid%3D176292888582802659339&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时20分]"
+        },
+        {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
           "url": "https://wallstreetcn.com/livenews/3003176",
           "source": "华尔街见闻-快讯",
@@ -724,17 +749,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时30分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26flag%3D1%26lcate%3D5001%26band_rank%3D7%26pos%3D6%26c_type%3D31%26display_time%3D1762928885%26pre_seqid%3D176292888582802659339&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
         }
       ]
     },
@@ -751,8 +765,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时30分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时20分]"
         }
       ]
     },
