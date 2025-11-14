@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-14T07:19:05.962610+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-14T09:27:07.555348+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 09时27分]"
+        },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
           "url": "https://wallstreetcn.com/articles/3759298",
@@ -20,16 +33,15 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 07时19分]"
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
         },
         {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
@@ -56,13 +68,24 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
           "title": "应用材料美股盘后跌超4.5%。",
           "url": "https://wallstreetcn.com/livenews/3004422",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -136,8 +159,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "韩国方面表示，特朗普为事实清单做出了理性的决定。",
+          "url": "https://flash.jin10.com/detail/20251114092336752800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
           "url": "https://wallstreetcn.com/livenews/3004279",
@@ -156,7 +190,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -171,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 09时27分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -264,7 +309,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -275,8 +320,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 07时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 09时27分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -288,8 +333,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 07时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 09时27分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
+          "url": "https://flash.jin10.com/detail/20251114091237375800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
@@ -298,7 +354,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -309,7 +365,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
