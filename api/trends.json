@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T12:22:40.405013+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2025-11-15T13:18:49.748119+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 12时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 13时18分]"
         },
         {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
@@ -37,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时18分]"
         },
         {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
@@ -57,6 +59,19 @@
           "time_info": "[09时24分 ~ 12时22分]"
         },
         {
+          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
+          "url": "https://wallstreetcn.com/livenews/3005121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时18分]"
+        },
+        {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
           "url": "https://flash.jin10.com/detail/20251115034601291800",
           "source": "金十数据",
@@ -69,16 +84,16 @@
           "time_info": "[06时19分 ~ 09时24分]"
         },
         {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
+          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
+          "url": "https://wallstreetcn.com/livenews/3005141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            23
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时22分]"
+          "time_info": "[12时22分 ~ 13时18分]"
         },
         {
           "title": "特朗普拟削减部分食品杂货的关税",
@@ -90,17 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -208,7 +212,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -240,8 +244,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 12时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 13时18分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -254,8 +258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 12时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 13时18分]"
         },
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -269,17 +273,6 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
-          "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
-          "url": "https://wallstreetcn.com/livenews/3005073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
@@ -289,8 +282,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 12时22分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 13时18分]"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
+          "url": "https://wallstreetcn.com/livenews/3005073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -320,11 +324,12 @@
           "url": "https://www.cls.cn/detail/2201450",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时18分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -419,8 +424,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 12时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 13时18分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -431,8 +436,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时18分]"
+        },
+        {
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时18分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -458,29 +477,17 @@
           "time_info": "[06时19分 ~ 07时18分]"
         },
         {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时22分]"
-        },
-        {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
           "url": "https://flash.jin10.com/detail/20251115093238774800",
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时18分]"
         },
         {
           "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
@@ -568,11 +575,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时18分]"
         }
       ]
     },
