@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T21:24:37.285973+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-11-16T22:16:50.276195+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -22,6 +22,19 @@
           "time_info": "[00时21分 ~ 16时24分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 22时16分]"
+        },
+        {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
           "url": "https://flash.jin10.com/detail/20251115224710080800",
           "source": "金十数据",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 12时26分]"
-        },
-        {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 21时24分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -62,6 +62,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时19分 ~ 17时19分]"
+        },
+        {
+          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
+          "url": "https://flash.jin10.com/detail/20251116221017649800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 22时16分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -90,17 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时26分 ~ 15时18分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 21时24分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -255,11 +266,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时16分]"
         },
         {
           "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
@@ -417,8 +429,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 21时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 22时16分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -476,8 +488,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 21时24分]"
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 22时16分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
