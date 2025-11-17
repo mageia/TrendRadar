@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T16:29:06.310569+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-11-17T17:25:22.759939+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             16,
-            23
+            23,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 17时25分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 07时18分]"
+        },
+        {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时25分]"
         },
         {
           "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
@@ -79,17 +91,6 @@
           "time_info": "[09时27分 ~ 11时16分]"
         },
         {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
           "title": "特朗普转变立场 称众议院应投票支持司法部公布爱泼斯坦档案",
           "url": "https://wallstreetcn.com/livenews/3005595",
           "source": "华尔街见闻-快讯",
@@ -124,6 +125,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普豪气“画饼”要发每人2000美元？美财长泼冷水：得先国会同意",
+          "url": "https://www.cls.cn/detail/2202033",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "特朗普态度转变？支持投票公开爱泼斯坦相关文件",
@@ -216,8 +228,110 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            12,
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 15时20分]"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 17时25分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251117170331832800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
+          "url": "https://www.zhihu.com/question/1973043161929577003",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时27分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "谷歌：还将支持PARIS21伙伴关系，为各国国家统计局提供人工智能培训和技术支持。将与非洲经济委员会合作，助力非洲区域数据共享平台的启动。",
+          "url": "https://flash.jin10.com/detail/20251117163740955800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://flash.jin10.com/detail/20251117163555133800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://wallstreetcn.com/livenews/3005746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -229,6 +343,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
@@ -270,7 +395,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -278,7 +403,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
@@ -324,53 +449,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Gemini3.0能碾压GPT-5.1吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            12,
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
+          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            15
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 16时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
-          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
-          "url": "https://www.zhihu.com/question/1973043161929577003",
-          "source": "知乎",
+          "title": "美股股指期货涨幅持续扩大，纳斯达克100指数期货涨1%，道琼斯指数期货涨0.25%，标普500指数期货涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3005738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10,
-            12
+            26
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 09时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
