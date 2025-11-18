@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T11:13:10.110897+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2025-11-18T12:24:37.935124+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“生活成本”已成特朗普重点，美银：白宫将加大“价格干预”，贸易战“结束”了",
@@ -94,22 +94,24 @@
           "source": "今日头条",
           "ranks": [
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 11时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 12时24分]"
         },
         {
           "title": "特朗普称计划向沙特出售F-35战机",
           "url": "https://wallstreetcn.com/livenews/3006205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时24分]"
         },
         {
           "title": "委内瑞拉总统马杜罗：愿与特朗普“面对面”对话",
@@ -200,6 +202,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普威胁更换世界杯比赛城市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美联储理事沃勒：拒绝评论美国总统特朗普针对FOMC利率的论调是否对美联储有帮助。",
           "url": "https://wallstreetcn.com/livenews/3006059",
           "source": "华尔街见闻-快讯",
@@ -236,19 +249,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 11时13分]"
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 12时24分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
           "url": "https://www.cls.cn/detail/2203264",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 12时24分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -259,8 +273,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 11时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 12时24分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -371,8 +385,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 11时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 12时24分]"
         },
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
@@ -391,11 +405,12 @@
           "url": "https://www.zhihu.com/question/1970226468920471782",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 12时24分]"
         },
         {
           "title": "谷歌(GOOG.O)：在Google VIDS中扩大了Gemini的使用范围。拥有Gmail账号的任何人都可使用Google VIDS中的Gemini功能。（注：Google Vids是一款AI赋能的视频制作应用）",
@@ -466,8 +481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 11时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 12时24分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -509,9 +524,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
@@ -524,11 +556,12 @@
           "url": "https://www.cls.cn/detail/2203227",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 12时24分]"
         }
       ]
     }
