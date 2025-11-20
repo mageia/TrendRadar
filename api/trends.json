@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T15:20:02.920992+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-11-20T16:28:00.892571+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,33 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 16时28分]"
         },
         {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
           "url": "https://wallstreetcn.com/articles/3759743",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 16时28分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时28分]"
         },
         {
           "title": "美国总统特朗普签署法案，批准公开爱泼斯坦档案。",
@@ -112,18 +126,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时24分 ~ 12时22分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时20分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -217,11 +219,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 16时28分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -380,8 +383,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 15时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -396,8 +399,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 15时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -406,11 +409,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时19分 ~ 15时20分]"
+          "appearance_count": 12,
+          "time_info": "[06时19分 ~ 16时28分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -668,11 +672,12 @@
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 16时28分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）上海金午盘价为930.85元/克，较国际金价(930.57元/克)，高0.28元/克",
@@ -681,7 +686,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
