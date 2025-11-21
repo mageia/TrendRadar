@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T12:23:36.338162+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2025-11-21T13:20:45.757154+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时18分 ~ 12时23分]"
+          "appearance_count": 7,
+          "time_info": "[06时18分 ~ 13时20分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时20分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时20分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 13时20分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -76,9 +76,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -87,9 +87,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -101,8 +101,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时20分]"
         },
         {
           "title": "美股",
@@ -164,6 +164,17 @@
           "time_info": "[06时18分 ~ 07时21分]"
         },
         {
+          "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
+          "url": "https://flash.jin10.com/detail/20251121121525026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美股大跌 英伟达跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -208,6 +219,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251121050600915800",
           "source": "金十数据",
@@ -244,7 +266,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普“化缘”21万亿美元意味着啥",
@@ -290,8 +312,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时20分]"
         },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -299,11 +321,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时20分]"
         },
         {
           "title": "美法官叫停特朗普政府在华盛顿特区部署国民警卫队计划",
@@ -359,7 +382,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -439,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "特朗普结束俄乌战争28点和平计划曝光",
@@ -525,8 +559,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 13时20分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -649,8 +683,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时20分]"
         },
         {
           "title": "美股上演“史诗级”高开低走，英伟达跌超3%，美债走强，比特币跌破9万关口",
@@ -710,11 +744,12 @@
           "ranks": [
             5,
             6,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时20分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：冲突会随时爆发",
