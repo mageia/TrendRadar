@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T20:35:17.493132+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-11-22T21:23:54.602845+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时04分 ~ 20时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时04分 ~ 21时23分]"
         },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -33,6 +33,21 @@
           "time_info": "[13时18分 ~ 17时19分]"
         },
         {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 21时23分]"
+        },
+        {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
           "url": "https://www.cls.cn/detail/2207928",
           "source": "财联社热门",
@@ -44,6 +59,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时04分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 21时23分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -63,42 +91,16 @@
           "time_info": "[11时04分 ~ 17时19分]"
         },
         {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 20时35分]"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 20时35分]"
-        },
-        {
           "title": "加拿大政府：双方均对美国总统特朗普的领导及其旨在结束加沙战争的全面和平计划表示欢迎。",
           "url": "https://flash.jin10.com/detail/20251122202749920800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时23分]"
         },
         {
           "title": "公开决裂后 特朗普铁杆盟友辞职",
@@ -114,6 +116,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时18分 ~ 17时19分]"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -290,6 +303,19 @@
           "time_info": "[11时04分 ~ 13时19分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时23分]"
+        },
+        {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
           "url": "https://flash.jin10.com/detail/20251122032426694800",
           "source": "金十数据",
@@ -327,16 +353,15 @@
           "time_info": "[09时22分 ~ 11时04分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
-          "url": "https://flash.jin10.com/detail/20251122182640033800",
-          "source": "金十数据",
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            22
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时35分]"
+          "time_info": "[20时35分 ~ 21时23分]"
         },
         {
           "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
@@ -359,17 +384,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -496,8 +510,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时17分 ~ 20时35分]"
+          "appearance_count": 15,
+          "time_info": "[07时17分 ~ 21时23分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -609,11 +623,12 @@
           "url": "https://wallstreetcn.com/articles/3759920",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时35分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时23分]"
         },
         {
           "title": "美股深夜反弹 中国资产爆发",
@@ -675,7 +690,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -733,6 +748,18 @@
           "time_info": "[11时04分 ~ 15时17分]"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时23分]"
+        },
+        {
           "title": "Gemini3适合用来编程吗",
           "url": "https://www.douyin.com/hot/2314319",
           "source": "抖音",
@@ -746,26 +773,27 @@
           "time_info": "[18时19分 ~ 20时35分]"
         },
         {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
           "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时23分]"
+        },
+        {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时23分"
         }
       ]
     },
