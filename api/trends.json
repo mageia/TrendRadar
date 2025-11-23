@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T17:19:20.209907+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-11-23T18:19:24.180756+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -57,17 +57,6 @@
           "time_info": "[00时22分 ~ 15时18分]"
         },
         {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 07时18分]"
-        },
-        {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
           "source": "澎湃新闻",
@@ -80,8 +69,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 17时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "特朗普暗示“28点”计划方案有调整空间",
@@ -187,8 +187,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
@@ -199,8 +199,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -252,7 +252,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -313,6 +313,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时18分 ~ 13时18分]"
+        },
+        {
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -330,8 +341,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 18时19分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
