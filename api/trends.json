@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:28:50.842017+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2025-11-29T15:18:19.871543+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
             9,
             15,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 15时18分]"
         },
         {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
@@ -151,6 +152,19 @@
           "time_info": "[06时18分 ~ 09时25分]"
         },
         {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时18分]"
+        },
+        {
           "title": "特朗普：废除拜登用自动签名笔签署的文件",
           "url": "https://news.ifeng.com/c/8ofb4LFJyYg",
           "source": "凤凰网",
@@ -160,18 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时11分 ~ 11时12分]"
-        },
-        {
-          "title": "特朗普废除拜登用自动签名笔签的文件",
-          "url": "https://www.toutiao.com/trending/7577899454150279187/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时28分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -269,8 +271,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时18分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时18分 ~ 15时18分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -281,8 +283,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 15时18分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -503,8 +505,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时18分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -515,8 +517,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时18分]"
         }
       ]
     },
@@ -530,11 +532,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时18分]"
         },
         {
           "title": "金价",
