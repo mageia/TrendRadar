@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-30T14:29:47.206246+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2025-11-30T15:18:21.403113+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            22,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 15时18分]"
+        },
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
           "url": "https://news.ifeng.com/c/8ogHVRMYZ4N",
@@ -19,18 +34,16 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            18,
-            22,
-            24
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时18分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -168,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 13时19分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         }
       ]
     },
@@ -186,6 +188,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 15时18分]"
+        },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
@@ -199,19 +214,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 12时34分]"
-        },
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 14时29分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -242,11 +244,12 @@
             8,
             14,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 15时18分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -288,9 +291,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时18分]"
         }
       ]
     },
