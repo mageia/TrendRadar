@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T17:26:32.744878+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-02T18:23:10.218736+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -21,8 +21,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 17时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 18时23分]"
         },
         {
           "title": "“即将宣布”，特朗普称已选定下任美联储主席",
@@ -104,6 +104,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普体检结果公布",
+          "url": "https://www.toutiao.com/trending/7579125829599235625/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "特朗普面临支持率“大麻烦”",
@@ -265,18 +276,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3013613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -291,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时19分]"
+        },
+        {
+          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时23分]"
         },
         {
           "title": "周一（12月1日），降息赢家指数涨0.17%，报100.08点，跳空低开之后，在美股盘初快速转涨。",
@@ -311,7 +323,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -410,6 +422,21 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            11,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 18时23分]"
+        },
+        {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
@@ -422,8 +449,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 17时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 18时23分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -436,8 +463,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 17时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 18时23分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -451,21 +478,6 @@
           "time_info": "[09时28分 ~ 15时22分]"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            11,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 17时26分]"
-        },
-        {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
@@ -476,8 +488,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 17时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 18时23分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -557,11 +569,12 @@
             15,
             16,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 17时26分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 18时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -623,8 +636,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 18时23分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -663,7 +676,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
@@ -675,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "金价随美债收益率走强而回落 市场聚焦美国经济数据",
+          "url": "https://flash.jin10.com/detail/20251202173757800800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "金价",
