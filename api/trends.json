@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:32:07.505573+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2025-12-05T15:21:51.750803+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -120,7 +120,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -353,8 +353,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 15时21分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -368,8 +368,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 15时21分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -392,6 +392,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金午盘价为955.9元/克，较国际金价(960.01元/克)，低4.11元/克",
+          "url": "https://flash.jin10.com/detail/20251205150237767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
+          "url": "https://flash.jin10.com/detail/20251205101748828800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
+          "url": "https://flash.jin10.com/detail/20251204234446522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         }
       ]
     },
@@ -448,11 +487,12 @@
             9,
             12,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 15时21分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -496,37 +536,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
-          "url": "https://flash.jin10.com/detail/20251205101748828800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
-          "url": "https://flash.jin10.com/detail/20251204234446522800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
+        {
+          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时21分]"
+        },
         {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
           "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
@@ -537,17 +560,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时29分 ~ 13时20分]"
-        },
-        {
-          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
         }
       ]
     }
