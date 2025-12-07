@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T15:18:53.505606+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2025-12-07T16:24:41.796181+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时24分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -65,11 +66,12 @@
           "ranks": [
             4,
             9,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时24分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -112,7 +114,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -236,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时24分]"
         }
       ]
     },
