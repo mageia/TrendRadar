@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T07:18:55.357711+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-12-07T09:45:14.872462+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -20,22 +20,22 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
-          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
-          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
           "url": "https://v.ifeng.com/c/8oreqqskdgg",
           "source": "凤凰网",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普或将给高市早苗放权",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
@@ -117,11 +128,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -130,7 +142,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
@@ -146,11 +158,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 07时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 09时45分]"
         }
       ]
     },
