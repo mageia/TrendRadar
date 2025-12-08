@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T06:20:01.978167+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2025-12-09T07:19:56.667354+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
@@ -41,6 +41,18 @@
           "time_info": "00时28分"
         },
         {
+          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3017166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
           "url": "https://flash.jin10.com/detail/20251209001747407800",
           "source": "金十数据",
@@ -50,6 +62,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
+          "url": "https://flash.jin10.com/detail/20251209063630862800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "市场消息：美国法官裁定特朗普禁止风能项目的行政令是非法的。",
+          "url": "https://flash.jin10.com/detail/20251209062839282800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -63,15 +97,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3017166",
+          "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
+          "url": "https://wallstreetcn.com/livenews/3017188",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "07时19分"
         },
         {
           "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
@@ -80,7 +114,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -91,7 +125,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -102,7 +136,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -113,7 +147,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -124,7 +158,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -135,7 +169,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -146,7 +180,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -157,7 +191,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -168,7 +202,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -179,7 +213,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -190,7 +224,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -201,7 +235,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -212,7 +246,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -223,7 +257,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -234,7 +268,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
@@ -242,19 +276,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
-          "url": "https://flash.jin10.com/detail/20251209054521705800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
@@ -264,19 +287,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 07时19分]"
+        },
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
+          "url": "https://flash.jin10.com/detail/20251209054521705800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
           "url": "https://wallstreetcn.com/livenews/3017179",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -287,74 +334,91 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "（美股）费城金银指数收跌2.34%，报311.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌2.17%，刷新日低至2235.45点；美股开盘之前维持微跌状态——持稳于2280点附近，之后转而短暂地微幅上涨。",
           "url": "https://wallstreetcn.com/livenews/3017176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3017174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
           "url": "https://wallstreetcn.com/livenews/3017172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251209050623264800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251209050617161800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
           "url": "https://wallstreetcn.com/livenews/3017165",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "07时19分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -363,7 +427,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -374,7 +438,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -385,7 +449,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -426,19 +490,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
           "url": "https://wallstreetcn.com/livenews/3017167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -447,7 +512,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
@@ -462,11 +527,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 07时19分]"
         },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
@@ -476,8 +542,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 07时19分]"
         }
       ]
     },
