@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:25:03.296623+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-12-10T18:25:04.131050+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 17时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 18时25分]"
         },
         {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
@@ -57,6 +57,31 @@
           "time_info": "[00时27分 ~ 07时29分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 18时25分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
           "url": "https://news.ifeng.com/c/8ox8rZbN56k",
           "source": "凤凰网",
@@ -80,18 +105,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时25分]"
-        },
-        {
           "title": "美国就业数据呈现矛盾信号，特朗普称“立即降息”是美联储主席人选硬指标，支撑美联储降息预期。美联储利率决议今晚重磅来袭，黄金多空争夺激烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
           "url": "https://flash.jin10.com/detail/20251210104414511800",
           "source": "金十数据",
@@ -101,18 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时25分]"
         },
         {
           "title": "特朗普：泽连斯基要开始接受现实了",
@@ -235,6 +236,17 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
           "url": "https://www.zhihu.com/question/1981659657740234762",
           "source": "知乎",
@@ -259,6 +271,17 @@
           "time_info": "[06时20分 ~ 07时29分]"
         },
         {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "邵永灵：特朗普正用国家权力变现",
           "url": "https://www.toutiao.com/trending/7582064656005467699/",
           "source": "今日头条",
@@ -280,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
@@ -648,8 +682,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 18时25分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -708,7 +742,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
