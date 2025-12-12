@@ -1,8 +1,196 @@
 {
-  "generated_at": "2025-12-12T09:40:06.340129+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-12-12T11:23:39.971506+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 11时23分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
+          "url": "https://flash.jin10.com/detail/20251212062505540800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普政府在加州边境建立新的军事化区域",
+          "url": "https://flash.jin10.com/detail/20251212061317117800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
+          "url": "https://flash.jin10.com/detail/20251212061240422800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时23分]"
+        },
+        {
+          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1982382778923365984",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
+          "url": "https://flash.jin10.com/detail/20251212054106500800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "泰国总理给特朗普“泼冷水”",
+          "url": "https://www.toutiao.com/trending/7582421562226655268/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "特朗普下令SEC审查代理咨询机构规则",
+          "url": "https://flash.jin10.com/detail/20251212084323146800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3019416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普计划推动将大麻重新归类为危害较低的药物",
+          "url": "https://flash.jin10.com/detail/20251212102622267800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
+          "url": "https://wallstreetcn.com/livenews/3019493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "特朗普称赞股市再创新高",
+          "url": "https://flash.jin10.com/detail/20251211234650410800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 15,
@@ -28,8 +216,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 09时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 11时23分]"
         },
         {
           "title": "博通美股盘后跌幅扩大至5.18%。",
@@ -180,173 +368,20 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 09时40分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 07时20分]"
-        },
-        {
-          "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
-          "url": "https://flash.jin10.com/detail/20251212062505540800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普政府在加州边境建立新的军事化区域",
-          "url": "https://flash.jin10.com/detail/20251212061317117800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
-          "url": "https://flash.jin10.com/detail/20251212061240422800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1982382778923365984",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
-          "url": "https://flash.jin10.com/detail/20251212054106500800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "泰国总理给特朗普“泼冷水”",
-          "url": "https://www.toutiao.com/trending/7582421562226655268/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
-        },
-        {
-          "title": "特朗普下令SEC审查代理咨询机构规则",
-          "url": "https://flash.jin10.com/detail/20251212084323146800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
-          "url": "https://wallstreetcn.com/livenews/3019416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
-          "url": "https://wallstreetcn.com/livenews/3019493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普称赞股市再创新高",
-          "url": "https://flash.jin10.com/detail/20251211234650410800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
           "url": "https://www.cls.cn/detail/2227243",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时23分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -369,6 +404,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "全面解析ChatGPT5.2",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/1982718694623768873",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -402,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
@@ -462,7 +530,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
@@ -487,6 +555,17 @@
           "time_info": "[09时39分 ~ 09时40分]"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
           "url": "https://wallstreetcn.com/livenews/3019411",
           "source": "华尔街见闻-快讯",
@@ -504,7 +583,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -518,6 +597,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
+          "url": "https://flash.jin10.com/detail/20251212102205776800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
