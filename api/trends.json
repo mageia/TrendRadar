@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:23:39.971506+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2025-12-12T12:34:08.423048+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -21,6 +21,17 @@
           "time_info": "[00时30分 ~ 11时23分]"
         },
         {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -31,6 +42,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 07时20分]"
+        },
+        {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 12时34分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -68,15 +90,26 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时23分]"
+          "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时34分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -113,26 +146,15 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
+          "title": "特朗普称美对委行动很快将延伸至陆地",
+          "url": "https://www.toutiao.com/trending/7582515717653315611/",
+          "source": "今日头条",
           "ranks": [
-            11
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "特朗普下令SEC审查代理咨询机构规则",
@@ -163,7 +185,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -179,11 +201,196 @@
           "time_info": "09时40分"
         },
         {
+          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
+          "url": "https://flash.jin10.com/detail/20251212111451238800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "特朗普称赞股市再创新高",
           "url": "https://flash.jin10.com/detail/20251211234650410800",
           "source": "金十数据",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 12时34分]"
+        },
+        {
+          "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
+          "url": "https://wallstreetcn.com/livenews/3019450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI最新发布",
+          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "全面解析ChatGPT5.2",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/1982718694623768873",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
+          "url": "https://wallstreetcn.com/livenews/3019321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3019319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
+          "url": "https://wallstreetcn.com/livenews/3019318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
+          "url": "https://flash.jin10.com/detail/20251211235409597800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
+          "url": "https://flash.jin10.com/detail/20251211235112934800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
+          "url": "https://flash.jin10.com/detail/20251211234949588800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
+          "url": "https://flash.jin10.com/detail/20251211234938201800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们预计迪士尼合作将带来增量收入。",
+          "url": "https://flash.jin10.com/detail/20251211234711697800",
+          "source": "金十数据",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -216,8 +423,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 11时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 12时34分]"
         },
         {
           "title": "博通美股盘后跌幅扩大至5.18%。",
@@ -368,167 +575,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时23分]"
-        },
-        {
-          "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
-          "url": "https://wallstreetcn.com/livenews/3019450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "GPT-5.2来了！OpenAI最新发布",
-          "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "全面解析ChatGPT5.2",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
-          "url": "https://www.zhihu.com/question/1982718694623768873",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
-          "url": "https://wallstreetcn.com/livenews/3019321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3019319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
-          "url": "https://wallstreetcn.com/livenews/3019318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
-          "url": "https://flash.jin10.com/detail/20251211235409597800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
-          "url": "https://flash.jin10.com/detail/20251211235112934800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
-          "url": "https://flash.jin10.com/detail/20251211234949588800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
-          "url": "https://flash.jin10.com/detail/20251211234938201800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们预计迪士尼合作将带来增量收入。",
-          "url": "https://flash.jin10.com/detail/20251211234711697800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -544,6 +590,18 @@
           "time_info": "00时31分"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
           "url": "https://wallstreetcn.com/articles/3761169",
           "source": "华尔街见闻",
@@ -553,17 +611,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
@@ -611,7 +658,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
