@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T13:20:55.269158+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2025-12-13T14:30:46.651333+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -16,8 +16,36 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 14时30分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 14时30分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://www.douyin.com/hot/2334474",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 14时30分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -32,18 +60,18 @@
           "time_info": "[07时20分 ~ 09时26分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
+          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
+          "url": "https://flash.jin10.com/detail/20251213102355663800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            14,
-            17,
-            19
+            1,
+            4,
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时30分]"
         },
         {
           "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
@@ -51,24 +79,37 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时20分]"
-        },
-        {
-          "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
-          "url": "https://flash.jin10.com/detail/20251213102355663800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
+            5,
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时20分]"
+          "time_info": "[12时26分 ~ 14时30分]"
+        },
+        {
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 14时30分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -83,17 +124,16 @@
           "time_info": "[06时20分 ~ 09时26分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火 泰方否认",
-          "url": "https://flash.jin10.com/detail/20251213092752773800",
-          "source": "金十数据",
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            6,
+            12,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 14时30分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -135,19 +175,6 @@
           "time_info": "[11时16分 ~ 13时20分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://www.douyin.com/hot/2334474",
-          "source": "抖音",
-          "ranks": [
-            19,
-            15,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时20分]"
-        },
-        {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
           "url": "https://news.ifeng.com/c/8p1vHCZebHh",
           "source": "凤凰网",
@@ -170,6 +197,17 @@
           "time_info": "[00时25分 ~ 09时26分]"
         },
         {
+          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时30分]"
+        },
+        {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
@@ -180,18 +218,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时26分 ~ 12时26分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -264,17 +290,6 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "爱泼斯坦案新影像曝光，有特朗普照片",
-          "url": "https://news.ifeng.com/c/8p315VNzI20",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
           "url": "https://flash.jin10.com/detail/20251213000409005800",
           "source": "金十数据",
@@ -325,7 +340,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -356,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时20分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[06时20分 ~ 14时30分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -455,11 +470,12 @@
           "ranks": [
             12,
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时30分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
