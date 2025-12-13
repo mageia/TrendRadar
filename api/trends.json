@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T11:16:21.349428+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2025-12-13T12:26:33.080929+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -24,44 +24,49 @@
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时26分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
           "url": "https://news.ifeng.com/c/8p2to1Pzvac",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火 泰方否认",
-          "url": "https://flash.jin10.com/detail/20251213092752773800",
-          "source": "金十数据",
-          "ranks": [
+            2,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时26分]"
         },
         {
-          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
-          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "12时26分"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 12时26分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -76,17 +81,16 @@
           "time_info": "[06时20分 ~ 09时26分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            14,
-            17
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 11时16分]"
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时26分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -126,6 +130,18 @@
           "time_info": "[00时25分 ~ 09时26分]"
         },
         {
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时26分]"
+        },
+        {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
           "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
           "source": "凤凰网",
@@ -135,6 +151,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2228568",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 12时26分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -149,15 +177,16 @@
           "time_info": "[09时26分 ~ 11时16分]"
         },
         {
-          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
-          "url": "https://www.cls.cn/detail/2228568",
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
           "source": "财联社热门",
           "ranks": [
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时26分 ~ 11时16分]"
+          "time_info": "[11时16分 ~ 12时26分]"
         },
         {
           "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
@@ -181,6 +210,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://www.douyin.com/hot/2334474",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时26分]"
         },
         {
           "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
@@ -229,17 +270,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3020054",
           "source": "华尔街见闻-快讯",
@@ -273,17 +303,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://www.douyin.com/hot/2334474",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
           "title": "美国克利夫兰联储主席哈玛克（2026年FOMC票委）：美国总统特朗普推行的政策将在2026年带来“得体的”刺激。",
           "url": "https://wallstreetcn.com/livenews/3020034",
           "source": "华尔街见闻-快讯",
@@ -301,17 +320,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
@@ -321,8 +329,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[06时20分 ~ 12时26分]"
+        },
+        {
+          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -410,8 +429,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 12时26分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -423,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 12时26分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
@@ -468,6 +487,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 12时26分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
@@ -479,26 +511,13 @@
           "time_info": "00时25分"
         },
         {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 11时16分]"
-        },
-        {
           "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
           "url": "https://www.cls.cn/detail/2228546",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
@@ -526,7 +545,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
