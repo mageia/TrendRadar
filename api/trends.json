@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:20:14.124335+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-12-14T18:20:31.878148+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -196,6 +196,17 @@
           "time_info": "[00时23分 ~ 09时45分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时20分]"
+        },
+        {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
           "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
@@ -206,17 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -378,7 +378,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -389,7 +389,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -400,7 +400,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -465,8 +465,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 17时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 18时20分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -512,11 +512,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 18时20分]"
         }
       ]
     }
