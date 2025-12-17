@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:24:55.837915+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2025-12-17T19:20:41.680921+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 18时24分]"
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 19时20分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -117,7 +117,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
