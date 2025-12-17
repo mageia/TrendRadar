@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:22:48.426811+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-12-17T16:31:08.364698+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -84,6 +84,18 @@
           "time_info": "00时29分"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 16时31分]"
+        },
+        {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
           "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
           "source": "凤凰网",
@@ -142,15 +154,16 @@
           "time_info": "[00时29分 ~ 07时19分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时22分]"
+          "time_info": "[14时32分 ~ 16时31分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -176,15 +189,15 @@
           "time_info": "[13时22分 ~ 14时33分]"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "评论员：特朗普越来越像拜登",
