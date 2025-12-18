@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T22:22:48.167851+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2025-12-18T23:23:52.858549+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -90,6 +90,17 @@
           "time_info": "[12时34分 ~ 13时23分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时23分]"
+        },
+        {
           "title": "市场消息：特朗普被律师告知，关于第三个总统任期的宪法合法性尚不明确。",
           "url": "https://flash.jin10.com/detail/20251218060245642800",
           "source": "金十数据",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时22分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -217,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2233937",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "特朗普全国讲话未提及委内瑞拉",
@@ -316,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "特朗普媒体科技涨29%。",
+          "url": "https://wallstreetcn.com/livenews/3023215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-18）",
@@ -563,7 +585,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -575,8 +597,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时20分 ~ 22时22分]"
+          "appearance_count": 18,
+          "time_info": "[06时20分 ~ 23时23分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -597,7 +619,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -655,7 +677,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -669,6 +691,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
@@ -699,9 +743,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251218224104340800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股收盘）",
@@ -724,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "AI热潮难再雨露均沾 摩根大通警示美股极端拥挤 并点名六只高风险个股",
+          "url": "https://wallstreetcn.com/livenews/3023201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
@@ -851,7 +917,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -863,8 +929,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 22时22分]"
+          "appearance_count": 11,
+          "time_info": "[14时33分 ~ 23时23分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -889,6 +955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
+          "url": "https://wallstreetcn.com/livenews/3023228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -992,7 +1069,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
@@ -1021,7 +1098,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1035,6 +1112,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场消息：美国发布与伊朗及国际刑事法院相关的通用许可证，并更新了与俄罗斯相关的指定名单。",
+          "url": "https://flash.jin10.com/detail/20251218230600826800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "伊朗海滩暴雨后变血红色",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B5%B7%E6%BB%A9%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%8F%98%E8%A1%80%E7%BA%A2%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17,
+            22,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 11时21分]"
+        },
+        {
+          "title": "外交部阿富汗事务特使岳晓勇访问巴基斯坦并赴伊朗出席阿富汗邻国特使会。",
+          "url": "https://flash.jin10.com/detail/20251218085928551800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -1063,38 +1183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗海滩暴雨后变血红色",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B5%B7%E6%BB%A9%E6%9A%B4%E9%9B%A8%E5%90%8E%E5%8F%98%E8%A1%80%E7%BA%A2%E8%89%B2",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17,
-            22,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 11时21分]"
-        },
-        {
-          "title": "外交部阿富汗事务特使岳晓勇访问巴基斯坦并赴伊朗出席阿富汗邻国特使会。",
-          "url": "https://flash.jin10.com/detail/20251218085928551800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         }
       ]
     }
