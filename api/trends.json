@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T12:34:23.212436+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-12-18T13:23:00.914218+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,34 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 13时23分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时28分 ~ 12时34分]"
+          "time_info": "[07时20分 ~ 13时23分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
           "url": "https://flash.jin10.com/detail/20251218121134659800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时23分]"
         },
         {
           "title": "市场消息：特朗普被律师告知，关于第三个总统任期的宪法合法性尚不明确。",
@@ -44,19 +59,6 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时34分]"
-        },
-        {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
           "url": "https://flash.jin10.com/detail/20251218055750070800",
           "source": "金十数据",
@@ -67,6 +69,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 13时23分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -92,16 +107,39 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "title": "特朗普将发表全国讲话强调政绩",
+          "url": "https://www.douyin.com/hot/2339868",
+          "source": "抖音",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普发表演讲称接手了一个烂摊子",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
-            18,
-            21
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 13时23分]"
+        },
+        {
+          "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
+          "url": "https://flash.jin10.com/detail/20251218120122593800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时34分]"
+          "time_info": "[12时34分 ~ 13时23分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -157,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
-          "url": "https://flash.jin10.com/detail/20251218120122593800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "委内瑞拉总统马杜罗周三表示，在美国总统特朗普下令封锁进出委内瑞拉的油轮之后，委内瑞拉将继续进行石油贸易。",
@@ -236,17 +263,6 @@
           "time_info": "06时20分"
         },
         {
-          "title": "特朗普将发表全国讲话强调政绩",
-          "url": "https://www.douyin.com/hot/2339868",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
           "title": "市场消息：SOC投资集团正向亚马逊、沃尔玛及Alphabet询问，要求这些企业说明特朗普政府的移民政策如何影响其财务状况与供应链。",
           "url": "https://flash.jin10.com/detail/20251218080802005800",
           "source": "金十数据",
@@ -267,17 +283,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "特朗普发表演讲称接手了一个烂摊子",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "分析师：规模相对较小，特朗普的“战士红利”不太可能具有宏观意义",
@@ -394,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[06时20分 ~ 13时23分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -406,8 +411,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时23分]"
         },
         {
           "title": "甲骨文带崩美股大盘",
@@ -548,8 +553,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 13时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
