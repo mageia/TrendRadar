@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:25:41.725640+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-12-20T17:20:25.290298+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -317,8 +317,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 17时20分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -331,8 +331,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 17时20分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -344,8 +344,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 17时20分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -470,19 +470,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时26分 ~ 17时20分]"
         },
         {
           "title": "伊朗处决一名为以色列工作的间谍",
           "url": "https://flash.jin10.com/detail/20251220153845757800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -570,8 +571,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时20分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[06时20分 ~ 17时20分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
