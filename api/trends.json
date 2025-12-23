@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-23T13:24:13.766970+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-12-23T14:33:59.139014+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
-        {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 13时24分]"
-        },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
@@ -27,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 14时33分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -39,8 +28,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时40分 ~ 13时24分]"
+          "time_info": "[11时26分 ~ 14时33分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -50,11 +51,12 @@
             4,
             8,
             10,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 14时33分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -64,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 14时33分]"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -84,11 +86,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 14时33分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -97,11 +100,12 @@
           "ranks": [
             10,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 14时33分]"
         },
         {
           "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
@@ -214,6 +218,19 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普提出中美G2概念 日本不安",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时33分]"
+        },
+        {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
           "url": "https://flash.jin10.com/detail/20251223061933362800",
           "source": "金十数据",
@@ -274,18 +291,6 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 13时24分]"
-        },
-        {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
           "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
           "source": "凤凰网",
@@ -308,6 +313,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：我们还将增加航空母舰。",
@@ -355,17 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 12时38分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：15艘潜艇正在建造或即将开工。",
@@ -588,6 +594,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "“特朗普级”战列舰性能如何",
+          "url": "https://www.toutiao.com/trending/7586915482419072538/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "美国总统特朗普：防务行业需要优先考虑生产开支。",
           "url": "https://wallstreetcn.com/livenews/3025154",
           "source": "华尔街见闻-快讯",
@@ -680,8 +697,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 13时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 14时33分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -831,7 +848,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -842,8 +859,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时20分 ~ 13时24分]"
+          "appearance_count": 10,
+          "time_info": "[06时20分 ~ 14时33分]"
+        },
+        {
+          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -866,6 +894,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价飙涨 有新人快被“三金”愁哭了",
+          "url": "https://www.toutiao.com/trending/7586259723437064246/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "金价大涨的背后原因是什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
+          "title": "金价突破1400元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
@@ -905,36 +974,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价飙涨 有新人快被“三金”愁哭了",
-          "url": "https://www.toutiao.com/trending/7586259723437064246/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "金价大涨的背后原因是什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         }
       ]
     },
