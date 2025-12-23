@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T21:36:21.980387+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2025-12-23T22:21:34.551906+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 21时36分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 22时21分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -40,11 +40,12 @@
             6,
             11,
             13,
-            28
+            28,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时26分 ~ 21时36分]"
+          "appearance_count": 16,
+          "time_info": "[11时26分 ~ 22时21分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -129,6 +130,21 @@
           "time_info": "[00时26分 ~ 07时19分]"
         },
         {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7,
+            8,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普：美国“必须得到格陵兰岛”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
@@ -159,18 +175,15 @@
           "time_info": "[12时37分 ~ 16时29分]"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
           "ranks": [
-            27,
-            7,
-            8,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时36分]"
+          "time_info": "[18时23分 ~ 22时21分]"
         },
         {
           "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
@@ -292,17 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -587,7 +589,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -620,7 +622,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -730,7 +732,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -799,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "特朗普夸耀与马克龙“交锋”战绩",
+          "url": "https://www.toutiao.com/trending/7586142427094908934/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "特朗普的战列舰狂想",
@@ -1015,6 +1028,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 22时21分]"
+        },
+        {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
           "url": "https://flash.jin10.com/detail/20251223175214274800",
           "source": "金十数据",
@@ -1026,16 +1052,16 @@
           "time_info": "18时23分"
         },
         {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            11
+            22,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时23分 ~ 21时36分]"
+          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "金价突破1400元",
@@ -1049,18 +1075,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时33分 ~ 17时25分]"
-        },
-        {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 21时36分]"
         },
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -1091,11 +1105,12 @@
           "url": "https://www.zhihu.com/question/1986492553160311276",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时21分]"
         },
         {
           "title": "金价银价同日创新高",
@@ -1107,6 +1122,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时25分]"
+        },
+        {
+          "title": "美国GDP数据公布后，美元指数DXY小幅走高10点，最新报97.96。欧元兑美元EUR/USD小幅下跌，现报1.18。",
+          "url": "https://flash.jin10.com/detail/20251223213404675800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "美国三季度GDP数据公布后，美元指数短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3025632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "美元指数跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3025112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -1145,7 +1233,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1234,57 +1322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3025481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时25分]"
-        },
-        {
-          "title": "美元指数DXY跌破98，创5日新低。",
-          "url": "https://flash.jin10.com/detail/20251223161014189800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
-          "url": "https://flash.jin10.com/detail/20251223192922576800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "美元指数跌0.3%",
-          "url": "https://wallstreetcn.com/livenews/3025112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         }
       ]
     },
