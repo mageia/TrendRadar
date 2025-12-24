@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T13:24:28.258619+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2025-12-24T14:33:53.897184+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -13,21 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            15,
-            18,
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -43,11 +28,28 @@
             23,
             12,
             11,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 13时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15,
+            18,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 14时33分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -69,11 +71,37 @@
             2,
             7,
             14,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -133,21 +161,8 @@
           "time_info": "00时28分"
         },
         {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -155,7 +170,7 @@
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时24分]"
+          "time_info": "[11时24分 ~ 14时33分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -194,15 +209,17 @@
           "time_info": "[11时24分 ~ 12时36分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.toutiao.com/trending/7586746209667239443/",
+          "source": "今日头条",
           "ranks": [
+            7,
+            13,
             10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时24分]"
+          "time_info": "[12时35分 ~ 14时33分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -218,18 +235,6 @@
           "time_info": "[09时39分 ~ 12时36分]"
         },
         {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.toutiao.com/trending/7586746209667239443/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时24分]"
-        },
-        {
           "title": "布林肯为何对特朗普发出严厉警告",
           "url": "https://www.toutiao.com/trending/7587029251379957291/",
           "source": "今日头条",
@@ -240,6 +245,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
+          "url": "https://flash.jin10.com/detail/20251224130340552800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时33分]"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -273,17 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
-          "url": "https://flash.jin10.com/detail/20251224130340552800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
@@ -330,6 +336,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "克林顿大尺度照被公布 特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
           "url": "https://wallstreetcn.com/livenews/3025670",
           "source": "华尔街见闻-快讯",
@@ -367,8 +384,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 14时33分]"
         },
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -602,8 +619,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -644,11 +661,12 @@
           "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时33分]"
         }
       ]
     },
