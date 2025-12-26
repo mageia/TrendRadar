@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:22:01.802158+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-12-26T19:19:21.318319+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时40分 ~ 19时19分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 19时19分]"
         },
         {
           "title": "特朗普人事强震引爆新争议",
@@ -106,7 +106,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -248,8 +248,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时40分 ~ 19时19分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
@@ -447,7 +447,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
