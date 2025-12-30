@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T20:43:19.067009+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2025-12-30T21:37:01.086837+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时37分]"
+        },
         {
           "title": "普京一个电话后，特朗普怒了",
           "url": "https://news.ifeng.com/c/8pUyRCwSPET",
@@ -29,19 +40,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时41分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时41分 ~ 21时37分]"
         },
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时37分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -55,19 +66,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时39分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[12时39分 ~ 21时37分]"
         },
         {
-          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
-          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
-          "source": "凤凰网",
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            12,
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时43分]"
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 21时37分]"
         },
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -110,18 +124,16 @@
           "time_info": "[13时24分 ~ 18时23分]"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
           "ranks": [
-            12,
-            11,
-            10,
-            9
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时37分]"
         },
         {
           "title": "解放军封岛军演，特朗普表态",
@@ -158,6 +170,32 @@
           "time_info": "00时26分"
         },
         {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普：普京说他被袭击了 我很生气",
           "url": "https://www.toutiao.com/trending/7588848955197095963/",
           "source": "今日头条",
@@ -180,6 +218,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时37分]"
+        },
+        {
           "title": "白宫发言人Leavitt：美国总统特朗普与俄罗斯总统普京关于乌克兰问题的通话“气氛是积极的”。",
           "url": "https://wallstreetcn.com/livenews/3028254",
           "source": "华尔街见闻-快讯",
@@ -189,18 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "特朗普称美对委进行首次陆地打击",
-          "url": "https://www.douyin.com/hot/2352186",
-          "source": "抖音",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "特朗普回应解放军在台岛附近军演",
@@ -227,6 +264,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "伊朗、哈马斯强硬回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时37分]"
+        },
+        {
           "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
           "url": "https://flash.jin10.com/detail/20251230114449386800",
           "source": "金十数据",
@@ -249,42 +297,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时25分 ~ 20时43分]"
-        },
-        {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时43分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时43分]"
-        },
-        {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -334,17 +346,6 @@
           "time_info": "[16时29分 ~ 17时25分]"
         },
         {
-          "title": "伊朗、哈马斯强硬回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
           "title": "美国联邦住房金融局（FHFA）局长、“反美联储先锋”Bill Pulte：总统特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
           "url": "https://wallstreetcn.com/livenews/3028340",
           "source": "华尔街见闻-快讯",
@@ -377,6 +378,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "特朗普贸易战关税全是美国百姓血汗钱",
+          "url": "https://www.toutiao.com/trending/7589536471321677353/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "解放军围岛军演，特朗普表态",
@@ -612,8 +624,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时41分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[09时41分 ~ 21时37分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -640,18 +652,6 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
-          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2243401",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时39分]"
-        },
-        {
           "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
           "url": "https://wallstreetcn.com/articles/3762263",
           "source": "华尔街见闻",
@@ -662,8 +662,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[15时23分 ~ 21时37分]"
+        },
+        {
+          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2243401",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时39分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
@@ -814,8 +826,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "市场消息：俄罗斯总统普京与伊朗总统佩泽什基扬进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251230210602372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
         {
           "title": "克里姆林宫：我们认为有必要与伊朗开展对话。",
           "url": "https://flash.jin10.com/detail/20251230172626201800",
@@ -845,7 +868,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
