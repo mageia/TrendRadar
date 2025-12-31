@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:19:19.806838+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-12-31T20:42:09.184412+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,17 @@
           "time_info": "[00时27分 ~ 09时42分]"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 20时42分]"
+        },
+        {
           "title": "国台办回应特朗普称不担心台海局势",
           "url": "https://www.toutiao.com/trending/7589884892247543346/",
           "source": "今日头条",
@@ -126,17 +137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时19分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -202,7 +202,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -298,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时19分 ~ 19时19分]"
+          "appearance_count": 19,
+          "time_info": "[07时19分 ~ 20时42分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -455,8 +455,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 20时42分]"
         },
         {
           "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
@@ -476,7 +476,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -487,7 +487,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
