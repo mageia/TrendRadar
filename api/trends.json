@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:25:02.736730+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2025-12-31T18:22:15.480094+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "外交部回应特朗普谈解放军军演",
@@ -276,8 +287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时19分 ~ 17时25分]"
+          "appearance_count": 16,
+          "time_info": "[07时19分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -475,7 +486,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
@@ -487,6 +498,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "内塔尼亚胡喊话伊朗：不要犯这样的错误",
+          "url": "https://news.ifeng.com/c/8pXFMyQDXcJ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
