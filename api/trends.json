@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:48:12.256881+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-01T13:27:13.941400+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时27分]"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时27分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -187,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时27分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -313,8 +314,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 12时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 13时27分]"
         }
       ]
     },
