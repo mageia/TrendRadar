@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T21:33:49.399280+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-01-01T22:19:56.882371+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -20,6 +20,31 @@
           "time_info": "[09时51分 ~ 15时23分]"
         },
         {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时19分]"
+        },
+        {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
           "url": "https://flash.jin10.com/detail/20260101113737125800",
           "source": "金十数据",
@@ -31,19 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时50分 ~ 13时27分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -190,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时51分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[09时51分 ~ 22时19分]"
         },
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -287,8 +299,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时33分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -299,11 +311,12 @@
             7,
             11,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时25分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[17时25分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -318,6 +331,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时22分 ~ 21时33分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -336,22 +361,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时19分]"
         }
       ]
     },
@@ -406,11 +421,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时19分]"
         },
         {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
@@ -418,11 +434,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时19分]"
         },
         {
           "title": "内塔尼亚胡喊话伊朗",
