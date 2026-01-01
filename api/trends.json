@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T13:27:13.941400+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-01-01T14:33:42.842608+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 14时33分]"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -188,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 14时33分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -311,11 +311,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 14时33分]"
         }
       ]
     },
