@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T18:22:14.570120+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-01-02T19:19:01.207357+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "特朗普承认服用阿司匹林",
@@ -32,18 +56,6 @@
           "time_info": "[15时24分 ~ 18时22分]"
         },
         {
-          "title": "唐驳虎：特朗普发现“弹药”不够用了",
-          "url": "https://www.toutiao.com/trending/7590682268167835155/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时22分]"
-        },
-        {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
           "url": "https://flash.jin10.com/detail/20260102032453188800",
           "source": "金十数据",
@@ -54,6 +66,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://wallstreetcn.com/livenews/3029800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
+          "title": "特朗普称将就伊朗骚乱事件进行干涉",
+          "url": "https://wallstreetcn.com/livenews/3029799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
@@ -80,6 +116,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普的“和平”为何总是显得脆弱",
+          "url": "https://www.toutiao.com/trending/7590664118328102443/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普承认手上瘀伤是服用药物造成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
@@ -103,15 +150,15 @@
           "time_info": "09时43分"
         },
         {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://wallstreetcn.com/livenews/3029800",
-          "source": "华尔街见闻-快讯",
+          "title": "据日本共同社：日本首相高市早苗与美国总统特朗普最早可能于周五晚间通话。",
+          "url": "https://flash.jin10.com/detail/20260102184342452800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时19分"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -125,17 +172,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "特朗普称将就伊朗骚乱事件进行干涉",
-          "url": "https://wallstreetcn.com/livenews/3029799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
           "url": "https://flash.jin10.com/detail/20260102155924046800",
           "source": "金十数据",
@@ -145,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-02）",
+          "url": "https://flash.jin10.com/detail/20260102183706260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
@@ -175,7 +222,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -216,7 +263,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -229,8 +276,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 19时19分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -249,11 +296,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -293,6 +341,17 @@
           "time_info": "[17时25分 ~ 18时22分]"
         },
         {
+          "title": "美股黄金股盘前上涨，泛美白银涨约4%，科尔黛伦矿业涨约5%，AngloGold Ashanti涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3029811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "美股三大股指期货走高，纳指期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
           "url": "https://flash.jin10.com/detail/20260102165416378800",
           "source": "金十数据",
@@ -310,7 +369,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -318,7 +377,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗多省示威致6死，总统发声",
@@ -368,6 +427,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：美国干预伊朗内政等同于扰乱地区局势",
+          "url": "https://wallstreetcn.com/livenews/3029814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -432,8 +513,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 19时19分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -462,8 +543,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -492,8 +573,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 19时19分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -504,8 +585,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
