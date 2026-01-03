@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T15:19:35.542123+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-01-03T16:27:45.283629+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 34,
       "titles": [
         {
           "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
@@ -30,11 +30,12 @@
             11,
             12,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时19分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 16时27分]"
         },
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -57,11 +58,68 @@
             14,
             13,
             12,
-            11
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
+          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时19分]"
+          "time_info": "[11时22分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591020324596564014/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "美方证实：特朗普下令空袭委内瑞拉",
+          "url": "https://news.ifeng.com/c/8pcChxGY8j9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "特朗普下令打击委内瑞拉境内目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.douyin.com/hot/2356137",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
@@ -86,7 +144,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -115,6 +173,17 @@
           "time_info": "[06时21分 ~ 11时22分]"
         },
         {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "特朗普与高市早苗通话，推进对方首次访美安排",
           "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
           "source": "凤凰网",
@@ -137,16 +206,26 @@
           "time_info": "00时26分"
         },
         {
-          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
-          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
-          "source": "凤凰网",
+          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
+          "url": "https://wallstreetcn.com/livenews/3029985",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 15时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：据两名美国官员透露，特朗普在实际行动发生前几天就批准了美军对委内瑞拉进行陆地打击。",
+          "url": "https://flash.jin10.com/detail/20260103160316191800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普称美国已做好准备",
@@ -189,6 +268,30 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时27分]"
+        },
+        {
           "title": "特朗普承认没少吃药，否认开会睡觉",
           "url": "https://news.ifeng.com/c/8pacnklL11I",
           "source": "凤凰网",
@@ -200,26 +303,15 @@
           "time_info": "[11时22分 ~ 12时32分]"
         },
         {
-          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
-          "source": "澎湃新闻",
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3029983",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时19分]"
-        },
-        {
-          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -231,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美媒：美官员证实特朗普下令打击委内瑞拉境内目标",
+          "url": "https://flash.jin10.com/detail/20260103153558768800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普又对中国在半导体领域下黑手",
@@ -253,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://flash.jin10.com/detail/20260103150823763800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "沃旭能源就特朗普暂停50亿美元海上风电项目提起诉讼",
@@ -312,22 +426,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时19分]"
-        },
-        {
-          "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2246465",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时27分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -338,22 +438,27 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时21分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[06时21分 ~ 16时27分]"
         },
         {
-          "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
+          "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2246465",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11,
+            7,
+            6,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 16时27分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -367,11 +472,23 @@
             16,
             17,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时21分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[06时21分 ~ 16时27分]"
+        },
+        {
+          "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -384,11 +501,25 @@
             10,
             11,
             13,
-            18
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时19分 ~ 16时27分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时19分 ~ 15时19分]"
+          "time_info": "[09时28分 ~ 16时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -406,19 +537,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时21分 ~ 14时31分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时19分]"
         },
         {
           "title": "半导体概念股美股新年首日普遍收涨",
@@ -569,8 +687,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时27分]"
         },
         {
           "title": "伊朗骚乱",
@@ -605,11 +723,12 @@
           "url": "https://www.toutiao.com/trending/7590150643311345706/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 16时27分]"
         },
         {
           "title": "伊朗外交部谴责美国干涉内政，警告将果断回应任何侵略",
@@ -810,8 +929,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 16时27分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -842,11 +961,12 @@
             14,
             15,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时21分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[06时21分 ~ 16时27分]"
         }
       ]
     },
