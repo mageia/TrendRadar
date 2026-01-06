@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:19:54.613224+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-01-06T20:43:59.328404+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
         {
           "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
@@ -43,6 +43,19 @@
           "time_info": "[09时43分 ~ 18时23分]"
         },
         {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 20时43分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -52,11 +65,12 @@
             20,
             23,
             24,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 19时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 20时43分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -75,19 +89,6 @@
           "time_info": "[11时29分 ~ 18时23分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 19时19分]"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.cls.cn/detail/2248692",
           "source": "财联社热门",
@@ -100,6 +101,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时40分 ~ 17时27分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 20时43分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -135,19 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 19时19分]"
         },
         {
           "title": "丹麦首相警告特朗普涉格陵兰岛言论",
@@ -217,6 +219,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "特朗普说马斯克八成是超级天才",
+          "url": "https://wallstreetcn.com/livenews/3031682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
           "url": "https://flash.jin10.com/detail/20260105235811612800",
           "source": "金十数据",
@@ -237,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
+          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
@@ -332,6 +356,19 @@
           "time_info": "[06时20分 ~ 09时43分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时43分]"
+        },
+        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -353,18 +390,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时19分]"
         },
         {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
@@ -421,6 +446,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
@@ -489,6 +525,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "据Politico：据三位消息人士透露，美国众议院将于周四投票推翻特朗普对两项共和党支持法案的否决。",
+          "url": "https://flash.jin10.com/detail/20260106195816977800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3031110",
           "source": "华尔街见闻-快讯",
@@ -511,13 +558,24 @@
           "time_info": "09时43分"
         },
         {
+          "title": "美媒爆料：特朗普对委动手前曾向油企高管暗示",
+          "url": "https://wallstreetcn.com/livenews/3031665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
           "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -553,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "特朗普为何急于控制格陵兰岛",
+          "url": "https://www.toutiao.com/trending/7592162290036641307/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
@@ -613,7 +682,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -624,8 +693,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时20分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 20时43分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -732,6 +801,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "伯恩斯坦：将波音(BA.N)列为美股国防板块首选股。",
+          "url": "https://flash.jin10.com/detail/20260106193052150800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
           "url": "https://flash.jin10.com/detail/20260106050116385800",
           "source": "金十数据",
@@ -746,7 +826,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -757,11 +837,23 @@
             4,
             6,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 20时43分]"
+        },
+        {
+          "title": "据美联社：伊朗警方在德黑兰大巴扎集市与抗议者发生冲突。",
+          "url": "https://flash.jin10.com/detail/20260106201352416800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列、美国不会让伊朗重建弹道导弹计划。",
@@ -825,7 +917,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -857,8 +949,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 20时43分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
@@ -939,7 +1031,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -1003,11 +1095,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 20时43分]"
         },
         {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
@@ -1064,6 +1157,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "地缘避险情绪对冲经济疲软忧虑 美元指数震荡回升",
+          "url": "https://flash.jin10.com/detail/20260106193112753800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     }
