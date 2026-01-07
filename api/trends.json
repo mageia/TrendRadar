@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:44:40.359611+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2026-01-07T21:40:10.010532+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 21时40分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -27,8 +28,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时29分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[11时29分 ~ 21时40分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时40分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -106,19 +121,6 @@
           "time_info": "[17时28分 ~ 20时44分]"
         },
         {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时44分]"
-        },
-        {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
           "url": "https://www.cls.cn/detail/2249902",
           "source": "财联社热门",
@@ -130,6 +132,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时43分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时40分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时40分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -212,15 +239,17 @@
           "time_info": "[09时43分 ~ 14时33分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            15,
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时40分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -272,19 +301,6 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时44分]"
-        },
-        {
           "title": "曝特朗普对委动手前曾暗示油企高管",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
           "source": "百度热搜",
@@ -298,19 +314,6 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时44分]"
-        },
-        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -322,6 +325,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 11时29分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时40分]"
         },
         {
           "title": "特朗普说若输了中期选举可能被弹劾",
@@ -489,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -990,8 +994,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 20时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 21时40分]"
         },
         {
           "title": "消息人士称，阿曼外交部长将访问伊朗。",
@@ -1000,7 +1004,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1044,7 +1048,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1077,7 +1081,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -1085,7 +1089,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
@@ -1110,6 +1114,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）上海金午盘价为997.08元/克，较国际金价(998.39元/克)，低1.31元/克",
@@ -1169,6 +1184,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债收益率在ADP数据公布后维持早盘跌势；10年期收益率最新下跌3.9个基点，报4.14%。",
+          "url": "https://flash.jin10.com/detail/20260107212025200800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
+          "url": "https://flash.jin10.com/detail/20260107144926716800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1200,23 +1243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外媒：黄金或已超越美债，成官方储备第一大资产",
-          "url": "https://flash.jin10.com/detail/20260107144926716800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         }
       ]
     },
