@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-15T06:22:49.956722+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-15T07:19:00.090402+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 07时19分]"
+        },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
           "url": "https://flash.jin10.com/detail/20260115002530191800",
@@ -30,38 +53,28 @@
           "time_info": "00时31分"
         },
         {
-          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
-          "url": "https://news.ifeng.com/c/8puu58c2sSy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
           "url": "https://wallstreetcn.com/livenews/3037319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            7
+            4,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
+          "url": "https://wallstreetcn.com/livenews/3037315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
@@ -70,18 +83,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
-          "url": "https://wallstreetcn.com/livenews/3037315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -92,9 +94,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：与Delcy Rodriguez进行了一场非常不错的通话。 讨论了石油、矿产、贸易、“国家安全”。",
+          "url": "https://wallstreetcn.com/livenews/3037333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
@@ -103,7 +116,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -114,7 +127,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -125,9 +138,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美国官员：特朗普将亲自挑选加沙和平委员会成员。",
+          "url": "https://flash.jin10.com/detail/20260115064618560800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
@@ -136,7 +160,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -147,7 +171,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -169,7 +193,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -180,9 +204,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "委内瑞拉代总统证实同特朗普通话",
+          "url": "https://wallstreetcn.com/livenews/3037326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普称“总会有办法解决”格陵兰岛问题",
+          "url": "https://wallstreetcn.com/livenews/3037325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -191,7 +237,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -202,7 +248,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -213,7 +259,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -224,9 +270,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
+          "url": "https://flash.jin10.com/detail/20260115062858254800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美国总统特朗普：与丹麦关系很好。",
@@ -235,7 +292,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -243,8 +300,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "伊朗：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
+          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
         {
           "title": "美军机沿伊朗边界飞行",
           "url": "https://news.ifeng.com/c/8pufl7S6EV4",
@@ -255,17 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "伊朗：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "沙特带头，劝美国不要对伊朗动武",
@@ -285,7 +354,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -296,7 +365,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -329,7 +398,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -351,11 +420,35 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 07时19分]"
+        },
+        {
+          "title": "伊朗高级将领：伊朗处于最高战备状态",
+          "url": "https://www.toutiao.com/trending/7595176797369679910/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "印度靛蓝航空：由于伊朗突然关闭空域，部分国际航班受到影响。",
+          "url": "https://flash.jin10.com/detail/20260115070042240800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -375,20 +468,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
         {
-          "title": "伊朗高级将领：伊朗处于最高战备状态",
-          "url": "https://www.toutiao.com/trending/7595176797369679910/",
-          "source": "今日头条",
+          "title": "Flightradar24：伊朗发布航行通告，除非获得许可，否则所有航班一律不得进入其领空。 经批准的往返伊朗的国际航班除外。该通告效期略超过两小时。",
+          "url": "https://wallstreetcn.com/livenews/3037332",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时19分"
         },
         {
           "title": "英国驻伊朗大使馆暂时关闭",
@@ -397,9 +490,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "外媒：伊朗关闭领空",
+          "url": "https://flash.jin10.com/detail/20260115063911246800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "消息人士：外交官们曾寻求真主党的保证，以确保在伊朗遭受袭击时，该组织不会采取行动。真主党虽未提供保证，但若伊朗遭受的打击并非毁灭性的，该组织并无采取行动的计划。",
@@ -413,13 +517,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "Flightradar24：伊朗发布航行通告，除非获得许可，否则所有航班一律不得进入其领空。经批准的往返伊朗的国际航班除外。该通告效期略超过两小时。",
+          "url": "https://flash.jin10.com/detail/20260115062414721800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "“星链”已向伊朗用户免费提供互联网服务",
           "url": "https://wallstreetcn.com/livenews/3037288",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -449,7 +564,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -460,8 +575,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 07时19分]"
+        },
+        {
+          "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "time_info": "[07时18分 ~ 07时19分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -470,7 +596,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -493,19 +619,31 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 07时19分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
           "url": "https://wallstreetcn.com/livenews/3037317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
         },
         {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
@@ -514,7 +652,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -525,7 +663,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -536,7 +674,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -547,7 +685,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -594,7 +732,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -602,11 +740,23 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 07时19分]"
+        },
+        {
+          "title": "梁文锋新论文剧透下一代模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "time_info": "[07时18分 ~ 07时19分]"
         }
       ]
     },
@@ -621,7 +771,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -638,7 +788,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
