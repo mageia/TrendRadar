@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T14:34:38.061970+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-01-16T15:25:10.990047+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 15时25分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 15时25分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时25分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -69,22 +69,24 @@
           "url": "https://wallstreetcn.com/articles/3763392",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 15时25分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时25分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
@@ -660,7 +662,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -670,11 +672,12 @@
             4,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时22分 ~ 14时34分]"
+          "appearance_count": 11,
+          "time_info": "[06时22分 ~ 15时25分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -688,8 +691,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 14时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 15时25分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -717,6 +720,32 @@
           "time_info": "[00时35分 ~ 07时22分]"
         },
         {
+          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
+          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 15时25分]"
+        },
+        {
+          "title": "中方呼吁美方对伊朗放下武力执念",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            22,
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时25分]"
+        },
+        {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
           "source": "澎湃新闻",
@@ -728,17 +757,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 09时44分]"
-        },
-        {
-          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
-          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -776,20 +794,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 07时22分]"
-        },
-        {
-          "title": "中方呼吁美方对伊朗放下武力执念",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 14时34分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
@@ -913,7 +917,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -951,6 +955,28 @@
           "time_info": "00时36分"
         },
         {
+          "title": "据新西兰媒体报道，新西兰外交部发言人16日表示，已暂时关闭该国驻伊朗大使馆并撤离外交人员。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260116142813324800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "美据称仍就对伊朗“打击时机”进行磋商",
+          "url": "https://wallstreetcn.com/livenews/3038543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：寻求加大对伊朗的制裁。",
           "url": "https://flash.jin10.com/detail/20260115234629479800",
           "source": "金十数据",
@@ -971,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "伊朗外长：美国无法通过召开安理会会议来掩盖其罪行",
+          "url": "https://wallstreetcn.com/livenews/3038535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -986,8 +1023,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时44分 ~ 15时25分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1043,11 +1080,12 @@
           "ranks": [
             12,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时25分]"
         },
         {
           "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
@@ -1182,8 +1220,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时25分]"
         },
         {
           "title": "OpenAI 布局美国供应链 全线扩张软硬件版图",
@@ -1211,7 +1249,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -1236,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
+          "url": "https://flash.jin10.com/detail/20260116144201337800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "金价",
