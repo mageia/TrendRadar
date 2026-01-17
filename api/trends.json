@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T20:39:46.033366+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-01-17T21:29:27.270643+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 21时29分]"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -58,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 21时29分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -88,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 20时39分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 21时29分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -129,8 +129,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时29分]"
+        },
+        {
+          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
+          "url": "https://flash.jin10.com/detail/20260117201033719800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时29分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -167,17 +179,6 @@
           "time_info": "00时29分"
         },
         {
-          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
-          "url": "https://flash.jin10.com/detail/20260117201033719800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
@@ -201,15 +202,15 @@
           "time_info": "00时29分"
         },
         {
-          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
-          "url": "https://flash.jin10.com/detail/20260117194356394800",
-          "source": "金十数据",
+          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
+          "url": "https://wallstreetcn.com/livenews/3039132",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时39分"
+          "time_info": "21时29分"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -229,23 +230,12 @@
           "ranks": [
             2,
             12,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时39分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
-          "url": "https://flash.jin10.com/detail/20260117185814130800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时29分]"
         },
         {
           "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
@@ -254,24 +244,12 @@
           "ranks": [
             4,
             14,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时39分]"
-        },
-        {
-          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
-          "url": "https://flash.jin10.com/detail/20260117173914674800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时29分]"
         },
         {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -282,8 +260,47 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 21时29分]"
+        },
+        {
+          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
+          "url": "https://flash.jin10.com/detail/20260117173914674800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            24,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时20分 ~ 20时39分]"
+          "time_info": "[18时20分 ~ 21时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
+          "url": "https://flash.jin10.com/detail/20260117185814130800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时29分]"
+        },
+        {
+          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
+          "url": "https://flash.jin10.com/detail/20260117194356394800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时29分]"
         },
         {
           "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
@@ -307,6 +324,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
+          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时29分]"
+        },
+        {
+          "title": "哈梅内伊：特朗普是罪犯",
+          "url": "https://wallstreetcn.com/livenews/3039111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时29分]"
         },
         {
           "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
@@ -347,28 +390,27 @@
           "time_info": "[09时39分 ~ 12时33分]"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
-          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "title": "哈梅内伊：特朗普是罪犯",
+          "url": "https://www.toutiao.com/trending/7595203430965366278/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时29分]"
+        },
+        {
+          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
+          "url": "https://flash.jin10.com/detail/20260117193443128800",
           "source": "金十数据",
           "ranks": [
             7,
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时39分]"
-        },
-        {
-          "title": "哈梅内伊：特朗普是罪犯",
-          "url": "https://wallstreetcn.com/livenews/3039111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时39分]"
+          "time_info": "[20时39分 ~ 21时29分]"
         },
         {
           "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
@@ -440,28 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "哈梅内伊：特朗普是罪犯",
-          "url": "https://www.toutiao.com/trending/7595203430965366278/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
-          "url": "https://flash.jin10.com/detail/20260117193443128800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
@@ -539,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "特朗普不愿放手哈塞特 美联储主席接班战再添变数",
@@ -733,8 +764,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时22分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 21时29分]"
         },
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -777,28 +808,6 @@
           "time_info": "[14时31分 ~ 19时17分]"
         },
         {
-          "title": "伊朗网络服务恢复约1小时后再次中断",
-          "url": "https://wallstreetcn.com/livenews/3039126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "伊朗网络服务恢复约1小时后再次中断",
-          "url": "https://flash.jin10.com/detail/20260117194655217800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
           "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
           "url": "https://flash.jin10.com/detail/20260117160638101800",
           "source": "金十数据",
@@ -811,17 +820,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时26分 ~ 19时17分]"
-        },
-        {
-          "title": "伊朗谴责七国集团干涉伊朗内政",
-          "url": "https://wallstreetcn.com/livenews/3039124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "伊朗全境已恢复互联网服务",
@@ -865,6 +863,18 @@
           "time_info": "[00时29分 ~ 09时39分]"
         },
         {
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://flash.jin10.com/detail/20260117194655217800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时29分]"
+        },
+        {
           "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
           "url": "https://flash.jin10.com/detail/20260117164104796800",
           "source": "金十数据",
@@ -876,6 +886,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时20分 ~ 19时17分]"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：我们不会把国家拖入战争，但也不会让国内外的犯罪分子逍遥法外。",
+          "url": "https://flash.jin10.com/detail/20260117184112590800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时29分]"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
+          "url": "https://flash.jin10.com/detail/20260117184028196800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时29分]"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -891,28 +927,28 @@
           "time_info": "[07时21分 ~ 11时23分]"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：我们不会把国家拖入战争，但也不会让国内外的犯罪分子逍遥法外。",
-          "url": "https://flash.jin10.com/detail/20260117184112590800",
-          "source": "金十数据",
+          "title": "伊朗网络服务恢复约1小时后再次中断",
+          "url": "https://wallstreetcn.com/livenews/3039126",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            13
+            3,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时39分]"
+          "time_info": "[20时39分 ~ 21时29分]"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：那些与以色列和美国有关联的人在抗议活动中造成了大规模破坏并导致数千人死亡。",
-          "url": "https://flash.jin10.com/detail/20260117184028196800",
-          "source": "金十数据",
+          "title": "伊朗谴责七国集团干涉伊朗内政",
+          "url": "https://wallstreetcn.com/livenews/3039124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时39分]"
+          "time_info": "[20时39分 ~ 21时29分]"
         },
         {
           "title": "伊朗手机用户发送短信功能恢复",
@@ -1025,11 +1061,12 @@
             3,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时20分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[07时20分 ~ 21时29分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1156,8 +1193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 20时39分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 21时29分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
