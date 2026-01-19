@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T13:32:13.835691+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-01-19T14:38:32.822666+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 14时38分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 14时38分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -104,6 +104,18 @@
           "time_info": "[09时48分 ~ 13时32分]"
         },
         {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 14时38分]"
+        },
+        {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
@@ -138,16 +150,16 @@
           "time_info": "00时24分"
         },
         {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            12
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时50分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时38分]"
         },
         {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
@@ -186,18 +198,6 @@
           "time_info": "[06时20分 ~ 09时48分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时32分]"
-        },
-        {
           "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
           "url": "https://wallstreetcn.com/articles/3763551",
           "source": "华尔街见闻",
@@ -205,8 +205,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 14时38分]"
+        },
+        {
+          "title": "内塔尼亚胡罕见公开“叫板”特朗普",
+          "url": "https://www.toutiao.com/trending/7596220832478363654/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时52分 ~ 13时32分]"
+          "time_info": "[13时31分 ~ 14时38分]"
         },
         {
           "title": "美财长声援特朗普加税夺岛",
@@ -316,15 +328,15 @@
           "time_info": "[12时52分 ~ 13时32分]"
         },
         {
-          "title": "内塔尼亚胡罕见公开“叫板”特朗普",
-          "url": "https://www.toutiao.com/trending/7596220832478363654/",
-          "source": "今日头条",
+          "title": "特朗普致信挪威首相 称须完全控制格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260119142307602800",
+          "source": "金十数据",
           "ranks": [
-            23
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
@@ -360,6 +372,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
+          "url": "https://flash.jin10.com/detail/20260119141748687800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "研究员：若吞并格陵兰岛 特朗普将载入史册",
           "url": "https://flash.jin10.com/detail/20260118221815496800",
           "source": "金十数据",
@@ -380,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "据媒体报道，哈萨克斯坦表示，美国总统特朗普邀请哈萨克斯坦总统托卡耶夫加入“和平委员会”，托卡耶夫已同意。",
+          "url": "https://flash.jin10.com/detail/20260119141358029800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "美国财长贝森特：与欧盟的贸易协定尚未敲定。特朗普拥有动用关税的紧急权力。",
@@ -599,19 +633,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 14时38分]"
         },
         {
           "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时50分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 14时38分]"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -704,6 +739,45 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "美股今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260119135736792800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -746,25 +820,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 13时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 14时38分]"
         }
       ]
     }
