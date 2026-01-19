@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-19T15:29:18.122693+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-19T16:33:09.455416+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
-        {
-          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
-          "url": "https://www.cls.cn/detail/2261562",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时48分 ~ 15时29分]"
-        },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
           "url": "https://news.ifeng.com/c/8q27ChONuGJ",
@@ -26,6 +14,18 @@
           "ranks": [
             1,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时48分 ~ 16时33分]"
+        },
+        {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -93,6 +93,18 @@
           "time_info": "[00时24分 ~ 07时20分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 16时33分]"
+        },
+        {
           "title": "伊朗：将追究特朗普等人责任",
           "url": "https://news.ifeng.com/c/8q2B9XoMclS",
           "source": "凤凰网",
@@ -117,15 +129,15 @@
           "time_info": "[11时50分 ~ 14时38分]"
         },
         {
-          "title": "【外交部回应美方对欧洲八国加征关税】据新华社，美国总统特朗普17日在社交媒体上宣布，将从2月1日起对来自丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰的输美商品加征10%关税，并宣称加征关税的税率将从6月1日起提高至25%，直到相关方就美国“全面、彻底购买格陵兰岛”达成协议。对此，外交部发言人郭嘉昆19日在例行记者会上表示，中方已经多次阐明在格陵兰岛问题上的立场。以联合国宪章宗旨和原则为基础的国际法是现行国际秩序的基础，必须得到维护。",
-          "url": "https://wallstreetcn.com/livenews/3039608",
-          "source": "华尔街见闻-快讯",
+          "title": "杰富瑞：随着欧美展开谈判 特朗普或将推迟关税征收时间",
+          "url": "https://flash.jin10.com/detail/20260119161106127800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "16时33分"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -138,18 +150,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 15时29分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -174,6 +174,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "德国财长Klingbeil：欧洲不会因格陵兰岛问题被美国勒索。 欧洲在准备应对美国威胁的反制措施。 无意令贸易局势升级，也不寻求升级。 欧洲愿意与美国在贸易问题上折中。 欧洲应该研究如何利用现有工具。 由于特朗普的挑衅，已经触及了“红线”。",
+          "url": "https://wallstreetcn.com/livenews/3039634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
           "url": "https://flash.jin10.com/detail/20260119053728522800",
           "source": "金十数据",
@@ -196,6 +207,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "【外交部回应美方对欧洲八国加征关税】据新华社，美国总统特朗普17日在社交媒体上宣布，将从2月1日起对来自丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰的输美商品加征10%关税，并宣称加征关税的税率将从6月1日起提高至25%，直到相关方就美国“全面、彻底购买格陵兰岛”达成协议。对此，外交部发言人郭嘉昆19日在例行记者会上表示，中方已经多次阐明在格陵兰岛问题上的立场。以联合国宪章宗旨和原则为基础的国际法是现行国际秩序的基础，必须得到维护。",
+          "url": "https://wallstreetcn.com/livenews/3039608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时33分]"
         },
         {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
@@ -340,6 +363,17 @@
           "time_info": "[12时52分 ~ 13时32分]"
         },
         {
+          "title": "民调发现特朗普提升了中国全球影响力",
+          "url": "https://www.toutiao.com/trending/7596570077421191211/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普致信挪威首相 称须完全控制格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260119142307602800",
           "source": "金十数据",
@@ -472,6 +506,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
+          "url": "https://flash.jin10.com/detail/20260119155228340800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
           "url": "https://wallstreetcn.com/livenews/3039294",
           "source": "华尔街见闻-快讯",
@@ -549,6 +594,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "据泰国《民族报》：泰国外交部周一表示，泰国已受邀加入特朗普的“和平委员会”，参与加沙和平计划。泰国正在研究相关细节。",
+          "url": "https://flash.jin10.com/detail/20260119154552660800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
           "url": "https://flash.jin10.com/detail/20260119040945227800",
           "source": "金十数据",
@@ -610,7 +666,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -629,8 +685,22 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时50分 ~ 16时33分]"
+        },
         {
           "title": "世界周刊之伊朗危机",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%9C%BA",
@@ -647,6 +717,17 @@
           "time_info": "[07时19分 ~ 13时32分]"
         },
         {
+          "title": "伊朗拟永久退网",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%9F%E6%B0%B8%E4%B9%85%E9%80%80%E7%BD%91%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "伊朗总统：袭击最高领袖等同全面战争",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
           "source": "百度热搜",
@@ -658,19 +739,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时48分 ~ 14时38分]"
-        },
-        {
-          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时50分 ~ 15时29分]"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -708,6 +776,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260119154724623800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
           "url": "https://flash.jin10.com/detail/20260119040711327800",
           "source": "金十数据",
@@ -717,6 +796,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "美股今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260119135736792800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     },
@@ -763,45 +892,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3039552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "美股今日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260119135736792800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -844,8 +934,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 15时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 16时33分]"
         }
       ]
     }
