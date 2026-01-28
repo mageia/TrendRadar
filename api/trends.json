@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T20:50:26.743397+08:00",
-  "total_titles_processed": 1707,
+  "generated_at": "2026-01-28T21:49:52.244974+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时45分 ~ 20时50分]"
+          "appearance_count": 13,
+          "time_info": "[11时45分 ~ 21时49分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 21时49分]"
         },
         {
           "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
@@ -90,9 +90,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时49分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -106,17 +106,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "策略师：新美联储主席或更顺从特朗普 这将强化黄金涨势",
-          "url": "https://flash.jin10.com/detail/20260128204309206800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
           "url": "https://wallstreetcn.com/livenews/3045037",
           "source": "华尔街见闻-快讯",
@@ -128,15 +117,26 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普再发声威胁：希望伊朗能“回到谈判桌前”",
-          "url": "https://wallstreetcn.com/livenews/3045595",
+          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
+          "url": "https://wallstreetcn.com/livenews/3045623",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时50分"
+          "time_info": "21时49分"
+        },
+        {
+          "title": "分析：特朗普或抢在FOMC期间宣布新任美联储主席",
+          "url": "https://flash.jin10.com/detail/20260128214203738800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -187,6 +187,30 @@
           "time_info": "[12时44分 ~ 13时28分]"
         },
         {
+          "title": "策略师：新美联储主席或更顺从特朗普 这将强化黄金涨势",
+          "url": "https://flash.jin10.com/detail/20260128204309206800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时49分]"
+        },
+        {
+          "title": "特朗普再发声威胁：希望伊朗能“回到谈判桌前”",
+          "url": "https://wallstreetcn.com/livenews/3045595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时49分]"
+        },
+        {
           "title": "美媒：特朗普一周内两次妥协",
           "url": "https://news.ifeng.com/c/8qG16xqtXtH",
           "source": "凤凰网",
@@ -230,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://www.cls.cn/detail/2273107",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
@@ -293,7 +328,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -315,7 +350,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -326,7 +361,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -392,9 +427,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
+        },
+        {
+          "title": "美国总统特朗普：市长雅各布·弗雷刚刚称明尼阿波利斯既不执行，也不会执行联邦移民法，令人惊讶。希望他身边的人能解释清楚，这种声明是对法律的严重违反，他这是在玩火！",
+          "url": "https://flash.jin10.com/detail/20260128212652226800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
@@ -430,6 +476,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "美国总统特朗普：明尼阿波利斯市市长雅各布·弗雷市长在玩火。",
+          "url": "https://flash.jin10.com/detail/20260128212505003800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "惠誉评级：越南不断扩大的贸易顺差可能引发特朗普政府的更严格审查，增加了美国采取额外贸易措施的风险。",
           "url": "https://flash.jin10.com/detail/20260128165630688800",
           "source": "金十数据",
@@ -447,7 +504,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -458,7 +515,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -480,7 +537,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -502,7 +559,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -524,7 +581,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -576,7 +633,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "沙特不允许领空领土被用于打击伊朗",
@@ -659,17 +716,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "伊朗总统宣布启动紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3045592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
           "title": "伊朗总统与沙特王储通电话。（伊朗媒体IRNA）",
           "url": "https://wallstreetcn.com/livenews/3044874",
           "source": "华尔街见闻-快讯",
@@ -687,7 +733,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -704,6 +750,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 11时45分]"
+        },
+        {
+          "title": "伊朗总统宣布启动紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3045592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时49分]"
         },
         {
           "title": "伊朗官员称已对霍尔木兹海峡进行实时监控",
@@ -778,6 +836,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "伊朗政府谈断网20天：每日损失约3600万美元",
+          "url": "https://news.ifeng.com/c/8qHyXYFy8Oc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "土耳其破获与伊朗有关联的间谍网络 6人被捕",
           "url": "https://flash.jin10.com/detail/20260128184612027800",
           "source": "金十数据",
@@ -787,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "据报道，欧盟大使已批准在伊朗制裁名单下新增15名个人和6个实体。",
+          "url": "https://flash.jin10.com/detail/20260128213400059800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊拉克外长：伊朗不排斥对话解决分歧 美国迄今未有积极回应",
@@ -855,6 +935,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "伊朗总统宣布启动紧急状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "伊朗召见意大利大使 抗议意方发表反伊朗革命卫队言论",
           "url": "https://wallstreetcn.com/livenews/3044990",
           "source": "华尔街见闻-快讯",
@@ -883,7 +974,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -902,7 +993,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
@@ -972,6 +1063,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "GE Vernova美股盘前走低，现跌近3%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
           "url": "https://wallstreetcn.com/articles/3764338",
           "source": "华尔街见闻",
@@ -996,6 +1098,29 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "康宁美股盘前下挫，现跌超5%，此前一度涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3045583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时49分]"
+        },
+        {
+          "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
+          "url": "https://www.cls.cn/detail/2272925",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
           "url": "https://wallstreetcn.com/livenews/3045316",
           "source": "华尔街见闻-快讯",
@@ -1007,15 +1132,15 @@
           "time_info": "14时36分"
         },
         {
-          "title": "康宁美股盘前下挫，现跌超5%，此前一度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3045583",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128213140703800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时50分"
+          "time_info": "21时49分"
         },
         {
           "title": "康宁四季度核心销售额为44.1亿美元，预估43.6亿美元。 四季度核心每股收益0.72美元，预估0.7美元。 康宁预计第一季度核心销售额为42亿至43亿美元，市场预估42.5亿美元。 康宁预计第一季度核心每股收益0.66-0.7美元，市场预估67美元。 康宁美股盘前涨幅收窄至2%，此前一度涨超7%。",
@@ -1024,9 +1149,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
+        },
+        {
+          "title": "星巴克美股盘前涨近10%，公司第一财季净营收高于预估。",
+          "url": "https://wallstreetcn.com/livenews/3045613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
@@ -1038,6 +1174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "星巴克第一财季净营收99亿美元，预估96.5亿美元。 第一财季调整后每股收益0.56美元，预估0.59美元。 第一财季调整后运营利润率10.1％，预估10.3％。 第一财季同店销售增长4％，预估增长1.97％。 星巴克预计全年调整后每股收益2.15美元至2.40美元。 星巴克预计全年美国同店销售至少增长3％，市场预估增长2.85％。 星巴克预计全年同店销售至少增长3％，市场预估增长2.83％。 星巴克在2026财年第一财季关闭了165家门店。 星巴克美股盘前涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3045603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
@@ -1079,7 +1226,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -1090,7 +1237,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -1147,6 +1294,18 @@
           "time_info": "[00时31分 ~ 19时23分]"
         },
         {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 21时49分]"
+        },
+        {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
           "url": "https://wallstreetcn.com/articles/3764255",
           "source": "华尔街见闻",
@@ -1158,18 +1317,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[06时23分 ~ 17时34分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 20时50分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1190,11 +1337,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 21时49分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1222,6 +1370,30 @@
           "time_info": "19时23分"
         },
         {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时49分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时49分]"
+        },
+        {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
           "url": "https://wallstreetcn.com/livenews/3045007",
           "source": "华尔街见闻-快讯",
@@ -1244,28 +1416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时50分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
         },
         {
           "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
@@ -1301,11 +1451,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[09时46分 ~ 21时49分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
