@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T18:37:24.759331+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-01-29T19:31:49.309612+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 18时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时43分 ~ 19时31分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -188,11 +188,23 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时31分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时37分]"
+          "time_info": "[18时37分 ~ 19时31分]"
         },
         {
           "title": "特朗普被曝正考虑对伊朗发动重大打击",
@@ -204,17 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -300,7 +301,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -333,7 +334,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -344,7 +345,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -396,7 +397,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -438,7 +439,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -461,7 +462,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -472,7 +473,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -569,7 +570,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -605,6 +606,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "评论员：伊朗数千枚导弹待命迎战",
+          "url": "https://www.toutiao.com/trending/7600705793888882186/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "据AXIOS网站：沙特和以色列官员将赴华盛顿就伊朗问题举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260129184838657800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "伊朗军队新装备1000架战略无人机",
+          "url": "https://wallstreetcn.com/livenews/3046399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "伊朗总统宣布启动紧急状态",
@@ -643,7 +677,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
@@ -689,7 +723,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -725,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -789,7 +834,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -852,7 +897,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -876,8 +921,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 18时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 19时31分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -956,6 +1001,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
+          "url": "https://wallstreetcn.com/livenews/3046433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "金价暴涨女子卖300克黄金变现30万",
           "url": "https://www.toutiao.com/trending/7600256243789627398/",
           "source": "今日头条",
@@ -979,6 +1035,18 @@
           "time_info": "[07时26分 ~ 09时59分]"
         },
         {
+          "title": "高盛：上调今明两年金价预测",
+          "url": "https://www.toutiao.com/trending/7600254146813558827/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 19时31分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -991,17 +1059,6 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "高盛：上调今明两年金价预测",
-          "url": "https://www.toutiao.com/trending/7600254146813558827/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
           "title": "金价飙涨消费者把黄金变现",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1011,6 +1068,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
+          "url": "https://wallstreetcn.com/livenews/3046415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "金价银价暴涨原因",
@@ -1049,11 +1128,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 19时31分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1065,6 +1145,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -1091,7 +1210,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1109,30 +1228,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 1,
       "titles": [
         {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
+          "url": "https://flash.jin10.com/detail/20260129185347592800",
           "source": "金十数据",
           "ranks": [
-            27
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "19时31分"
         }
       ]
     }
