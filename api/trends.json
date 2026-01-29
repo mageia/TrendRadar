@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T09:59:02.486879+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-01-29T12:11:57.680301+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -63,11 +63,12 @@
           "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时11分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://wallstreetcn.com/livenews/3046082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -118,22 +130,24 @@
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时11分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2273451",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时11分]"
         },
         {
           "title": "特朗普被曝正考虑对伊朗发动重大打击",
@@ -211,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
@@ -291,11 +316,12 @@
           "url": "https://www.cls.cn/detail/2273407",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时11分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -412,7 +438,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -479,11 +505,23 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 12时11分]"
+        },
+        {
+          "title": "美媒：伊朗拒绝就民用铀浓缩和导弹项目妥协",
+          "url": "https://wallstreetcn.com/livenews/3046076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -544,7 +582,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价屡创历史新高意味着什么",
@@ -560,6 +598,17 @@
           "time_info": "[00时37分 ~ 09时59分]"
         },
         {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时11分]"
+        },
+        {
           "title": "渣打：金价出现任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
@@ -571,15 +620,15 @@
           "time_info": "[00时37分 ~ 06时27分]"
         },
         {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 12时11分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -605,17 +654,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时26分 ~ 09时59分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 09时59分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -651,13 +689,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "金价银价暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3045867",
@@ -668,6 +739,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     }
