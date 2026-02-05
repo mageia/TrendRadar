@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T06:28:57.198386+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-02-06T07:23:24.482730+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时23分]"
         },
         {
           "title": "美股",
@@ -39,8 +39,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时23分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -48,22 +48,35 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时23分]"
         },
         {
           "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
           "url": "https://wallstreetcn.com/livenews/3050900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时23分"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -72,7 +85,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -83,7 +96,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -94,7 +107,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -105,7 +118,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -116,7 +129,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -124,7 +137,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -134,8 +147,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时23分]"
         },
         {
           "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
@@ -144,7 +157,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -193,6 +206,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美国财长贝森特：特朗普已提议设定为期一年的信用卡利率上限。",
           "url": "https://flash.jin10.com/detail/20260206001125529800",
           "source": "金十数据",
@@ -237,11 +261,24 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时23分]"
+        },
+        {
+          "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
+          "url": "https://wallstreetcn.com/livenews/3050896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时48分 ~ 06时28分]"
+          "time_info": "[06时28分 ~ 07时23分]"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -266,24 +303,13 @@
           "time_info": "00时48分"
         },
         {
-          "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
-          "url": "https://wallstreetcn.com/livenews/3050896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
           "url": "https://flash.jin10.com/detail/20260206044050086800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -293,6 +319,17 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时23分]"
+        },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
@@ -305,27 +342,17 @@
           "time_info": "[00时48分 ~ 06时28分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 06时28分]"
-        },
-        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 07时23分]"
         }
       ]
     },
@@ -347,6 +374,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -357,7 +401,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -374,7 +418,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
