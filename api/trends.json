@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:42:38.372067+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2026-02-05T23:41:26.425076+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -113,6 +113,17 @@
           "time_info": "[06时30分 ~ 07时28分]"
         },
         {
+          "title": "美国驻波兰大使Tom Rose声称，其将切断与波兰众议院议长沃齐米日·恰扎斯蒂 (Włodzimierz Czarzasty)的所有联系。 这位外交官宣称，该议长的表态“直接冒犯”美国总统特朗普，不利于曾称呼特朗普为“爸爸”的波兰总理图斯克和其政府与美方的“卓越关系”。",
+          "url": "https://wallstreetcn.com/livenews/3050769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "习近平同美国总统特朗普通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
           "source": "澎湃新闻",
@@ -134,8 +145,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时41分]"
         },
         {
           "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
@@ -148,6 +159,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时41分]"
+        },
+        {
+          "title": "巴西总统卢拉：或于3月第一周赴华盛顿会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3050760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "特朗普起诉国税局索赔百亿 承诺赔偿金将“全额捐赠”",
@@ -178,7 +212,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -189,18 +223,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -238,6 +261,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "美国总统特朗普：尼日利亚政府必须“更强硬”。",
+          "url": "https://flash.jin10.com/detail/20260205230133804800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
           "url": "https://wallstreetcn.com/livenews/3050592",
           "source": "华尔街见闻-快讯",
@@ -266,7 +300,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -277,15 +311,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
+        },
+        {
+          "title": "美国总统特朗普：正努力结束苏丹战争，即将完成。",
+          "url": "https://flash.jin10.com/detail/20260205225952323800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -335,6 +380,18 @@
           "time_info": "[00时47分 ~ 00时48分]"
         },
         {
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时41分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
           "url": "https://www.cls.cn/detail/2280791",
           "source": "财联社热门",
@@ -353,7 +410,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -369,17 +426,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时47分 ~ 07时28分]"
-        },
-        {
-          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
@@ -419,6 +465,19 @@
           "time_info": "[06时30分 ~ 07时28分]"
         },
         {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时41分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
           "url": "https://wallstreetcn.com/livenews/3050123",
           "source": "华尔街见闻-快讯",
@@ -429,18 +488,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时42分]"
         },
         {
           "title": "百度将派发股息 美股盘后涨超3%",
@@ -510,13 +557,35 @@
           "time_info": "18时40分"
         },
         {
+          "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3050756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "美股三大股指均跌超1%，纳指跌1.7%，标普500指数跌1.28%。",
+          "url": "https://flash.jin10.com/detail/20260205231307246800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "诺和诺德ADR美股盘前跌6.3%，报道称“平价医药供应商”Hims & Hers提供49美元的Wegovy仿制药。 礼来制药盘前下跌。",
           "url": "https://wallstreetcn.com/livenews/3050723",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -556,8 +625,297 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时01分 ~ 23时41分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时53分 ~ 23时41分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时55分 ~ 19时36分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时47分 ~ 16时42分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
+          "url": "https://wallstreetcn.com/livenews/3050135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet电话会结束。",
+          "url": "https://wallstreetcn.com/livenews/3050134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "Gemini Space Station Inc.计划裁员200人，该公司将继续在美国和新加坡运营。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
+          "url": "https://wallstreetcn.com/livenews/3050126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时41分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
+          "url": "https://wallstreetcn.com/livenews/3050124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3050540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时40分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
+          "url": "https://wallstreetcn.com/livenews/3050117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
+          "url": "https://wallstreetcn.com/livenews/3050115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205055948666800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
+          "url": "https://flash.jin10.com/detail/20260205055519813800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "谷歌营收业绩超预期，2026年资本开支超预期",
+          "url": "https://wallstreetcn.com/livenews/3050103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
+          "url": "https://flash.jin10.com/detail/20260205051339983800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3050751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "Gemini Space Station Inc.（GEMI）计划裁员至多200人，在全球员工总数占比大约25%。 预计将发生大约0.11亿美元费用。 将继续在美国和新加坡运营。 将退出欧洲和澳大利亚市场。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
+          "url": "https://flash.jin10.com/detail/20260205050944063800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260205050807413800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
+          "url": "https://flash.jin10.com/detail/20260205050719759800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "鲁比奥否认向伊朗让步，透露美方条件",
@@ -582,11 +940,12 @@
             13,
             11,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时47分 ~ 22时42分]"
+          "appearance_count": 14,
+          "time_info": "[12时47分 ~ 23时41分]"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -701,6 +1060,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "伊朗外长与沙特外交大臣讨论了缓和局势的努力。",
+          "url": "https://flash.jin10.com/detail/20260205230804005800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
           "url": "https://flash.jin10.com/detail/20260204234340449800",
           "source": "金十数据",
@@ -809,260 +1179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时01分 ~ 22时42分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时53分 ~ 22时42分]"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 19时36分]"
-        },
-        {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 16时42分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
-          "url": "https://wallstreetcn.com/livenews/3050135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet电话会结束。",
-          "url": "https://wallstreetcn.com/livenews/3050134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "Gemini Space Station Inc.计划裁员200人，该公司将继续在美国和新加坡运营。",
-          "url": "https://wallstreetcn.com/livenews/3050744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
-          "url": "https://wallstreetcn.com/livenews/3050126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
-          "url": "https://wallstreetcn.com/livenews/3050124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3050540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时40分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
-          "url": "https://wallstreetcn.com/livenews/3050117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
-          "url": "https://wallstreetcn.com/livenews/3050115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205055948666800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
-          "url": "https://flash.jin10.com/detail/20260205055519813800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
-          "url": "https://wallstreetcn.com/livenews/3050110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "谷歌营收业绩超预期，2026年资本开支超预期",
-          "url": "https://wallstreetcn.com/livenews/3050103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
-          "url": "https://flash.jin10.com/detail/20260205051339983800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
-          "url": "https://flash.jin10.com/detail/20260205050944063800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
-          "url": "https://flash.jin10.com/detail/20260205050807413800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)：Q4谷歌服务营收增长了14%，达到959亿美元，主要由Google搜索及其他业务（增长17%）、订阅与平台设备业务（增长17%）及YouTube广告业务（增长9%）驱动。",
-          "url": "https://flash.jin10.com/detail/20260205050719759800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         }
       ]
     },
@@ -1178,7 +1294,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         }
