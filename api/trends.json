@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:01:35.276039+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-02-11T16:01:01.923364+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 16时01分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -30,6 +30,29 @@
           "time_info": "[00时10分 ~ 07时38分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 16时01分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 16时01分]"
+        },
+        {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260211122756306800",
           "source": "金十数据",
@@ -41,6 +64,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
+          "url": "https://wallstreetcn.com/livenews/3053536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
           "url": "https://wallstreetcn.com/livenews/3053143",
           "source": "华尔街见闻-快讯",
@@ -50,28 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 15时01分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 15时01分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -105,6 +117,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 15时01分]"
+        },
+        {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
@@ -213,6 +236,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时38分]"
+        },
+        {
+          "title": "卡塔尔埃米尔与特朗普通话，讨论地区局势发展。",
+          "url": "https://flash.jin10.com/detail/20260211154826994800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
@@ -339,8 +373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 16时01分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -398,8 +432,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 16时01分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -498,7 +532,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "沙特驻伊朗大使：支持地区局势降温",
@@ -507,9 +541,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "伊朗总统：我们无意制造核武器，并愿意接受任何形式的核查。",
+          "url": "https://flash.jin10.com/detail/20260211155719645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3053534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "沙特驻伊朗大使：支持地区局势降温",
+          "url": "https://wallstreetcn.com/livenews/3053490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 16时01分]"
         },
         {
           "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
@@ -524,24 +592,13 @@
           "time_info": "[06时39分 ~ 07时38分]"
         },
         {
-          "title": "沙特驻伊朗大使：支持地区局势降温",
-          "url": "https://wallstreetcn.com/livenews/3053490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
           "url": "https://flash.jin10.com/detail/20260211140731588800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -552,7 +609,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -566,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
+          "url": "https://flash.jin10.com/detail/20260211152743185800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "美媒：美国考虑扣押涉伊朗油轮以施压",
@@ -589,11 +657,12 @@
           "url": "https://wallstreetcn.com/livenews/3053495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 16时01分]"
         },
         {
           "title": "欧盟委员会声明：欧盟无条件批准谷歌公司320亿美元收购Wiz的网络安全交易。",
@@ -635,6 +704,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 16时01分]"
+        },
+        {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
           "source": "澎湃新闻",
@@ -646,17 +727,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时10分 ~ 10时14分]"
-        },
-        {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时01分]"
         },
         {
           "title": "金价波动",
@@ -704,7 +774,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -715,7 +785,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
