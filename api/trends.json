@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-16T16:48:00.569966+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-02-16T17:55:03.458180+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时09分 ~ 17时55分]"
+        },
         {
           "title": "伊朗外长启程赴会，以总理预设四项条件",
           "url": "https://news.ifeng.com/c/8qmf04pVvw5",
@@ -19,15 +31,28 @@
           "time_info": "[10时06分 ~ 14时10分]"
         },
         {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
-          "source": "澎湃新闻",
+          "title": "伊朗外长说不会屈服于威胁",
+          "url": "https://wallstreetcn.com/livenews/3055707",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "伊朗大秀肌肉回应美国施压",
+          "url": "https://www.toutiao.com/trending/7607336004873096742/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时09分 ~ 16时48分]"
+          "time_info": "[15时54分 ~ 17时55分]"
         },
         {
           "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
@@ -124,18 +149,6 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
-          "title": "伊朗大秀肌肉回应美国施压",
-          "url": "https://www.toutiao.com/trending/7607336004873096742/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 16时48分]"
-        },
-        {
           "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
           "url": "https://wallstreetcn.com/livenews/3055618",
           "source": "华尔街见闻-快讯",
@@ -182,6 +195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时27分]"
+        },
+        {
+          "title": "消息人士：乌克兰问题谈判和伊朗问题谈判将于2月17日同日在日内瓦举行",
+          "url": "https://flash.jin10.com/detail/20260216164212877800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -404,6 +428,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 17时55分]"
+        },
+        {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
@@ -416,20 +454,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 14时10分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 16时48分]"
         },
         {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
@@ -507,7 +531,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -519,8 +543,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 16时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 17时55分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/livenews/3055703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -574,11 +609,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 16时48分]"
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 17时55分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
