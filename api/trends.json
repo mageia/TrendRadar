@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:58:06.255728+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-02-17T15:04:45.222842+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 13时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 15时04分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -48,11 +48,12 @@
           "ranks": [
             9,
             17,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 15时04分]"
         },
         {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
@@ -61,11 +62,12 @@
           "ranks": [
             10,
             18,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 15时04分]"
         },
         {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
@@ -73,22 +75,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时04分]"
         },
         {
           "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
           "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 15时04分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -138,8 +142,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 13时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 15时04分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 15时04分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -151,18 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 13时58分]"
         },
         {
           "title": "市场消息：伊朗外交部长于周一晚间与阿曼外交部长举行了会晤，这符合每次谈判回合的惯例安排，旨在为德黑兰与华盛顿之间的间接谈判正式开启做好前期准备工作。",
@@ -181,11 +186,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时04分]"
         },
         {
           "title": "媒体人：伊朗弹道导弹反击已在准备中",
@@ -322,8 +328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 13时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 15时04分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -376,8 +382,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 13时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 15时04分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -385,11 +391,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 13时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 15时04分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
