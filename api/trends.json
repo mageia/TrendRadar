@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T21:03:59.673376+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-02-18T22:43:39.747763+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 21时03分]"
+          "appearance_count": 7,
+          "time_info": "[16时44分 ~ 22时43分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -227,6 +227,17 @@
           "time_info": "[12时53分 ~ 15时50分]"
         },
         {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 22时43分]"
+        },
+        {
           "title": "惠誉：预计特朗普政府将在必要时动用其他权力征收关税。",
           "url": "https://flash.jin10.com/detail/20260218054627557800",
           "source": "金十数据",
@@ -256,18 +267,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
-          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -341,7 +341,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -352,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[10时07分 ~ 22时43分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -366,8 +366,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 21时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 22时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -375,11 +375,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[10时07分 ~ 22时43分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -404,6 +405,18 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 22时43分]"
+        },
+        {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
           "url": "https://wallstreetcn.com/articles/3765796",
           "source": "华尔街见闻",
@@ -415,16 +428,26 @@
           "time_info": "00时57分"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
+          "title": "美股盘初：黄金股、中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时47分 ~ 21时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "美股高开，道指涨0.16%、标普500指数涨0.28%、纳指涨0.23%。英伟达(NVDA.O)涨1.8%，Meta与该公司签署数十亿美元多年期协议。纳斯达克中国金龙指数涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260218223031911800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
@@ -481,9 +504,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-18）",
+          "url": "https://flash.jin10.com/detail/20260218220340742800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
@@ -566,7 +611,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -599,8 +644,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 22时43分]"
         },
         {
           "title": "万斯：美方向伊朗划定“红线”",
@@ -745,7 +790,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -767,9 +812,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "俄罗斯与伊朗海军在阿曼湾举行演练",
+          "url": "https://wallstreetcn.com/livenews/3056340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
