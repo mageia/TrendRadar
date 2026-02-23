@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T23:01:16.586518+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-02-23T23:46:04.762679+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时30分 ~ 21时13分]"
+        },
+        {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 23时46分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -43,17 +56,20 @@
           "time_info": "[00时30分 ~ 14时08分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            5,
-            2
+            14,
+            13,
+            12,
+            9,
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 23时01分]"
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 23时46分]"
         },
         {
           "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
@@ -66,6 +82,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时58分 ~ 17时56分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 23时46分]"
         },
         {
           "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
@@ -103,22 +134,6 @@
           "time_info": "[00时30分 ~ 07时26分]"
         },
         {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            9,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 23时01分]"
-        },
-        {
           "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
           "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
           "source": "凤凰网",
@@ -129,21 +144,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时58分 ~ 16时51分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 23时01分]"
         },
         {
           "title": "连锁反应来了，印度打脸特朗普",
@@ -187,7 +187,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -209,7 +209,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -220,7 +220,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -248,6 +248,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时51分 ~ 19时40分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时13分 ~ 23时46分]"
         },
         {
           "title": "男子持枪闯入特朗普住所被击毙",
@@ -326,18 +338,6 @@
           "time_info": "[06时24分 ~ 07时26分]"
         },
         {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时01分]"
-        },
-        {
           "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
           "url": "https://flash.jin10.com/detail/20260223053236773800",
           "source": "金十数据",
@@ -348,6 +348,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时26分]"
+        },
+        {
+          "title": "现货黄金短线拉升，特朗普称玩花招的国家将面临更高的关税",
+          "url": "https://wallstreetcn.com/livenews/3057521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时46分]"
         },
         {
           "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
@@ -414,7 +426,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -452,17 +464,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "现货黄金短线拉升，特朗普称玩花招的国家将面临更高的关税",
-          "url": "https://wallstreetcn.com/livenews/3057521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
           "title": "欲闯特朗普私宅被击毙男子身份曝光",
           "url": "https://www.toutiao.com/trending/7609813670050332722/",
           "source": "今日头条",
@@ -480,7 +481,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -524,7 +525,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -546,9 +547,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
+        },
+        {
+          "title": "特朗普：加征关税无需得到美国国会批准",
+          "url": "https://wallstreetcn.com/livenews/3057530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国总统特朗普：我们赢得太多了，这不公平。",
@@ -634,7 +646,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -650,6 +662,17 @@
           "time_info": "12时58分"
         },
         {
+          "title": "特朗普：作为总统，我不必向国会争取关税的批准",
+          "url": "https://flash.jin10.com/detail/20260223225359135800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
           "url": "https://wallstreetcn.com/livenews/3057250",
           "source": "华尔街见闻-快讯",
@@ -661,13 +684,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国总统特朗普：作为总统，我无需再回到国会以获得关税的批准。",
+          "url": "https://flash.jin10.com/detail/20260223225050426800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "美国总统特朗普：墨西哥必须在打击贩毒集团和毒品方面加大力度。",
           "url": "https://flash.jin10.com/detail/20260223220846985800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         }
@@ -675,7 +709,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -691,8 +725,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 23时01分]"
+          "appearance_count": 12,
+          "time_info": "[12时58分 ~ 23时46分]"
         },
         {
           "title": "美军重兵合围伊朗",
@@ -704,8 +738,30 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时08分 ~ 23时46分]"
+        },
+        {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时08分 ~ 23时01分]"
+          "time_info": "[16时51分 ~ 23时46分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 23时46分]"
         },
         {
           "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
@@ -718,28 +774,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 07时26分]"
-        },
-        {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 23时01分]"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 23时01分]"
         },
         {
           "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
@@ -767,6 +801,17 @@
           "time_info": "[06时24分 ~ 07时26分]"
         },
         {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
+        },
+        {
           "title": "持续放风试探，美官员称或对伊朗发动针对特定个人的军事打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32641921",
           "source": "澎湃新闻",
@@ -779,6 +824,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时30分 ~ 10时07分]"
+        },
+        {
+          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
+          "url": "https://www.zhihu.com/question/2005108327592519351",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 23时46分]"
+        },
+        {
+          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
+          "url": "https://www.zhihu.com/question/2009287749354688656",
+          "source": "知乎",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时13分 ~ 23时46分]"
         },
         {
           "title": "阿曼外长：美国与伊朗将于周四在日内瓦会谈。",
@@ -888,32 +959,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时26分]"
-        },
-        {
-          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
-          "url": "https://www.zhihu.com/question/2005108327592519351",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 23时01分]"
-        },
-        {
-          "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
-          "url": "https://www.zhihu.com/question/2009287749354688656",
-          "source": "知乎",
-          "ranks": [
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时01分]"
         },
         {
           "title": "伊朗：将誓死捍卫国家独立和主权完整",
@@ -1291,7 +1336,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -1304,6 +1349,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 16时51分]"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
@@ -1345,6 +1401,29 @@
           "time_info": "[17时56分 ~ 19时40分]"
         },
         {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时01分 ~ 23时46分]"
+        },
+        {
+          "title": "全球航空业ETF跌1.79%，在美股盘初领跌行业ETF，网络股指数ETF跌1.77%，可选消费ETF跌1.18%，全球科技股指数ETF跌0.34%，科技行业ETF跌0.28%，半导体ETF涨0.44%，生物科技指数ETF涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3057524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时46分]"
+        },
+        {
           "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
           "url": "https://wallstreetcn.com/livenews/3057431",
           "source": "华尔街见闻-快讯",
@@ -1380,24 +1459,13 @@
           "time_info": "19时40分"
         },
         {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20260223223817753800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -1413,15 +1481,15 @@
           "time_info": "19时40分"
         },
         {
-          "title": "全球航空业ETF跌1.79%，在美股盘初领跌行业ETF，网络股指数ETF跌1.77%，可选消费ETF跌1.18%，全球科技股指数ETF跌0.34%，科技行业ETF跌0.28%，半导体ETF涨0.44%，生物科技指数ETF涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3057524",
-          "source": "华尔街见闻-快讯",
+          "title": "美股延续跌势，道指下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260223230448696800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "23时46分"
         },
         {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
@@ -1441,7 +1509,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         },
@@ -1452,7 +1520,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时01分"
         }
@@ -1520,11 +1588,29 @@
             9,
             8,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时24分 ~ 23时01分]"
+          "appearance_count": 15,
+          "time_info": "[06时24分 ~ 23时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国债收益率在美国工厂订单数据公布后小幅延续跌势；10年期美债收益率最新下跌2.9个基点，报4.056%；美国两年期国债收益率下跌0.6个基点，报3.474%。",
+          "url": "https://flash.jin10.com/detail/20260223230403433800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     }
