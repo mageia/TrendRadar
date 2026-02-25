@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T17:55:02.827730+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-02-25T18:52:15.699946+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时27分 ~ 17时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时27分 ~ 18时52分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -80,6 +80,29 @@
           "time_info": "[14时19分 ~ 16时50分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时52分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -125,28 +148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时27分 ~ 12时58分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -306,6 +307,19 @@
           "time_info": "10时27分"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普走上“关税悬崖”",
           "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
           "source": "凤凰网",
@@ -326,6 +340,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时52分]"
         },
         {
           "title": "特朗普国情咨文演讲点名讽刺佩洛西",
@@ -364,18 +390,6 @@
           "time_info": "[14时19分 ~ 15时15分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时55分]"
-        },
-        {
           "title": "白宫：特朗普对伊朗首选方案是外交",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
           "source": "百度热搜",
@@ -410,17 +424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时27分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
@@ -944,8 +947,21 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时57分 ~ 18时52分]"
+        },
         {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
           "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
@@ -959,16 +975,15 @@
           "time_info": "[10时27分 ~ 17时55分]"
         },
         {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
+          "title": "美大军压境伊朗为何不屈服",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时57分 ~ 17时55分]"
+          "time_info": "[14时19分 ~ 18时52分]"
         },
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -981,17 +996,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时03分 ~ 07时32分]"
-        },
-        {
-          "title": "美大军压境伊朗为何不屈服",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 17时55分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -1018,11 +1022,12 @@
             24,
             22,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 17时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 18时52分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -1044,11 +1049,12 @@
           "url": "https://news.ifeng.com/c/8r29cDgfx2m",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时52分]"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -1119,6 +1125,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐前往日内瓦与美国举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260225180927161800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
           "url": "https://wallstreetcn.com/livenews/3058246",
           "source": "华尔街见闻-快讯",
@@ -1147,7 +1164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1251,6 +1268,20 @@
           "time_info": "[00时03分 ~ 01时27分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 18时52分]"
+        },
+        {
           "title": "数字货币市场在美股早盘反弹",
           "url": "https://wallstreetcn.com/livenews/3058269",
           "source": "华尔街见闻-快讯",
@@ -1262,39 +1293,27 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
-          "url": "https://wallstreetcn.com/livenews/3058780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
           "url": "https://flash.jin10.com/detail/20260225173456379800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
         {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10,
-            9
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 17时55分]"
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 18时52分]"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
@@ -1420,7 +1439,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1446,11 +1465,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时52分]"
         },
         {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
