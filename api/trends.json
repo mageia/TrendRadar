@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T07:28:46.593031+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-02-26T10:01:43.143312+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -143,9 +143,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 10时01分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -156,19 +156,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 10时01分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
           "url": "https://www.cls.cn/detail/2295296",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 10时01分]"
         },
         {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
@@ -177,7 +178,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -229,8 +230,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 10时01分]"
+        },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
           "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
@@ -254,16 +267,15 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
           "ranks": [
-            5,
             4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
@@ -288,6 +300,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时28分]"
+        },
+        {
+          "title": "被批“脱离群众”，特朗普演讲后民调出炉",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "日本央行行长植田和男：预计美国总统特朗普的新关税措施不会对日本经济产生重大影响，但将密切关注事态发展。",
@@ -375,6 +409,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
