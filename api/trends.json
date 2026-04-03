@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-03T10:14:03.213974+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-04-03T13:04:59.015052+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 79,
       "titles": [
+        {
+          "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
+          "url": "https://wallstreetcn.com/articles/3769089",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 13时04分]"
+        },
         {
           "title": "伊朗指控美国使用新型导弹，致21名运动员遇难",
           "url": "https://news.ifeng.com/c/8s072hDEVK2",
@@ -20,15 +32,18 @@
           "time_info": "[00时02分 ~ 10时14分]"
         },
         {
-          "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
-          "url": "https://wallstreetcn.com/articles/3769089",
+          "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
+          "url": "https://wallstreetcn.com/articles/3769073",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 10时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 13时04分]"
         },
         {
           "title": "美以伊战争丨美军提交夺取伊朗浓缩铀方案",
@@ -65,17 +80,16 @@
           "time_info": "[00时02分 ~ 07时35分]"
         },
         {
-          "title": "伊朗：美以对伊朗能力一无所知，将战至敌人投降",
-          "url": "https://wallstreetcn.com/articles/3769073",
-          "source": "华尔街见闻",
+          "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
+          "url": "https://www.cls.cn/detail/2334040",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
         },
         {
           "title": "伊朗称美以对伊朗能力一无所知，将战至「敌人悔恨不已并投降」，如何看待这一表态？",
@@ -92,6 +106,19 @@
           "time_info": "[00时02分 ~ 10时14分]"
         },
         {
+          "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
+          "url": "https://wallstreetcn.com/articles/3769081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 13时04分]"
+        },
+        {
           "title": "伊朗已向中国寻求安全保障？外交部回应",
           "url": "https://www.cls.cn/detail/2333337",
           "source": "财联社热门",
@@ -103,28 +130,28 @@
           "time_info": "[00时02分 ~ 01时13分]"
         },
         {
-          "title": "伊朗与阿曼正起草协议 拟“监管”霍尔木兹海峡通行",
-          "url": "https://www.cls.cn/detail/2334040",
-          "source": "财联社热门",
+          "title": "美以袭击伊朗进入第 35 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2023172398711665684",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
-          "title": "霍尔木兹主航道被堵，船只批量绕道伊朗拉腊克岛\"缴费通行\"",
-          "url": "https://wallstreetcn.com/articles/3769081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
+            19,
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时02分 ~ 10时14分]"
+          "time_info": "[01时13分 ~ 13时04分]"
+        },
+        {
+          "title": "美以伊战争丨美国E3预警机遭伊朗摧毁卫星照曝光",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "伊朗称渗透以防空指挥系统支持公司，获取机密资料",
@@ -163,6 +190,28 @@
           "time_info": "06时31分"
         },
         {
+          "title": "中国代表：不认同伊朗对海合会国家的攻击，航道安全不应受扰",
+          "url": "https://news.ifeng.com/c/8s1FYlRoQBg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "伊朗再称击落美军F35战机",
+          "url": "https://wallstreetcn.com/livenews/3081974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。",
           "url": "https://flash.jin10.com/detail/20260402233206351800",
           "source": "金十数据",
@@ -183,18 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 35 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2023172398711665684",
-          "source": "知乎",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 10时14分]"
         },
         {
           "title": "伊朗标志性大桥遭袭",
@@ -258,6 +295,41 @@
           "time_info": "[00时02分 ~ 07时35分]"
         },
         {
+          "title": "伊朗导弹携数百公斤弹头袭以",
+          "url": "https://www.toutiao.com/trending/7624046665008103487/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 13时04分]"
+        },
+        {
+          "title": "伊朗外长谈最大桥梁被炸：不会投降",
+          "url": "https://www.toutiao.com/trending/7624326903637298714/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
+        },
+        {
+          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
+          "url": "https://wallstreetcn.com/articles/3769135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
+        },
+        {
           "title": "伊朗展开“真实承诺4”第91轮行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B1%95%E5%BC%80%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC91%E8%BD%AE%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -268,6 +340,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时35分 ~ 10时14分]"
+        },
+        {
+          "title": "“最大桥梁”被炸 伊朗外长：不会投降",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E5%A4%A7%E6%A1%A5%E6%A2%81%E2%80%9D%E8%A2%AB%E7%82%B8+%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%B8%8D%E4%BC%9A%E6%8A%95%E9%99%8D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
+        },
+        {
+          "title": "伊朗：250年历史无法威胁6000年文明",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A250%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%97%A0%E6%B3%95%E5%A8%81%E8%83%816000%E5%B9%B4%E6%96%87%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
         },
         {
           "title": "美以袭击伊朗进入第 34 天，当前局势如何？哪些信息值得关注？",
@@ -282,15 +378,28 @@
           "time_info": "[00时02分 ~ 06时31分]"
         },
         {
-          "title": "伊朗导弹携数百公斤弹头袭以",
-          "url": "https://www.toutiao.com/trending/7624046665008103487/",
-          "source": "今日头条",
+          "title": "伊朗袭击美甲骨文和亚马逊数据中心",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E7%94%B2%E9%AA%A8%E6%96%87%E5%92%8C%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            7,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时14分]"
+          "time_info": "[10时13分 ~ 13时04分]"
+        },
+        {
+          "title": "伊朗再发地面战警告：绝不留活口",
+          "url": "https://www.toutiao.com/trending/7623692523202691108/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
         },
         {
           "title": "伊朗总统发表致美国人民公开信",
@@ -342,28 +451,6 @@
           "time_info": "[07时35分 ~ 10时14分]"
         },
         {
-          "title": "伊朗外长谈最大桥梁被炸：不会投降",
-          "url": "https://www.toutiao.com/trending/7624326903637298714/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
-          "title": "“最大桥梁”被炸 伊朗外长：不会投降",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E5%A4%A7%E6%A1%A5%E6%A2%81%E2%80%9D%E8%A2%AB%E7%82%B8+%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%B8%8D%E4%BC%9A%E6%8A%95%E9%99%8D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
           "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
           "url": "https://wallstreetcn.com/articles/3769031",
           "source": "华尔街见闻",
@@ -375,28 +462,6 @@
           "time_info": "[00时02分 ~ 01时13分]"
         },
         {
-          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
-          "url": "https://wallstreetcn.com/articles/3769135",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
-          "title": "伊朗袭击美甲骨文和亚马逊数据中心",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E7%94%B2%E9%AA%A8%E6%96%87%E5%92%8C%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
           "title": "伊朗称250年历史无法威胁6000年文明",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0250%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%97%A0%E6%B3%95%E5%A8%81%E8%83%816000%E5%B9%B4%E6%96%87%E6%98%8E%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -406,17 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时35分]"
-        },
-        {
-          "title": "伊朗再发地面战警告：绝不留活口",
-          "url": "https://www.toutiao.com/trending/7623692523202691108/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "伊朗再发地面战警告：绝不留活口",
@@ -440,17 +494,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时35分]"
-        },
-        {
-          "title": "伊朗：250年历史无法威胁6000年文明",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A250%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%97%A0%E6%B3%95%E5%A8%81%E8%83%816000%E5%B9%B4%E6%96%87%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "美国海军：福特号航母准备重新参与伊朗的行动。",
@@ -499,6 +542,17 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
+          "title": "伊朗导弹击中特拉维夫，民众慢悠悠走进掩体(图)",
+          "url": "https://news.ifeng.com/c/8s15r9oHzIa",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御”",
           "url": "https://wallstreetcn.com/livenews/3081723",
           "source": "华尔街见闻-快讯",
@@ -510,13 +564,35 @@
           "time_info": "01时13分"
         },
         {
+          "title": "外交部回应「伊朗是否向中国寻求安全保障」，表示中方支持一切有利于和平的努力，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2023064985580893986",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "卡拉季大桥两次遭袭，伊朗媒体列出反击目标",
+          "url": "https://news.ifeng.com/c/8s1EwQd4kWz",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "以军：伊朗军方石油部门负责人遭空袭身亡",
           "url": "https://flash.jin10.com/detail/20260403095104644800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -549,9 +625,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "美军沙特基地一“萨德”反导雷达在伊朗袭击中受损",
+          "url": "https://flash.jin10.com/detail/20260403123801349800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "伊朗警告称敢发动地面战绝不留活口",
@@ -675,6 +762,39 @@
           "time_info": "00时02分"
         },
         {
+          "title": "日本、韩国、伊朗、澳大利亚、约旦、乌兹别克斯坦、沙特阿拉伯、卡塔尔、伊拉克等九队入选世界杯，你怎么看？",
+          "url": "https://www.zhihu.com/question/2022704110575599872",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "美军沙特基地一萨德反导雷达在伊朗袭击中受损",
+          "url": "https://wallstreetcn.com/livenews/3081960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "美评估伊朗约半数导弹发射装置完好",
+          "url": "https://www.toutiao.com/trending/7623417039516352555/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "伊朗与阿曼起草霍尔木兹海峡通行协议，标普转涨，新兴市场货币走高",
           "url": "https://wallstreetcn.com/livenews/3081679",
           "source": "华尔街见闻-快讯",
@@ -684,6 +804,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "市场消息：日本从美国订购的数百枚“战斧”导弹面临交付威胁，因为美国与以色列对伊朗的战争消耗了大量库存。",
+          "url": "https://flash.jin10.com/detail/20260403121635068800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "中国常驻联合国代表傅聪：中方不认同伊朗对海合会国家的攻击 航道安全不应受扰",
+          "url": "https://wallstreetcn.com/livenews/3081955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "伊朗一道路工程代表作遭美以袭击受损",
@@ -752,6 +894,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "卡拉季大桥两次遭袭 伊朗媒体列出反击目标",
+          "url": "https://wallstreetcn.com/livenews/3081943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "WTI原油期货维持大约11的涨幅，持稳于111美元上方 据伊朗媒体Mehr报道，伊朗衔接德黑兰与Karaj的B1大桥再次遭到美国和以色列的袭击。",
           "url": "https://wallstreetcn.com/livenews/3081667",
           "source": "华尔街见闻-快讯",
@@ -766,7 +919,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -838,17 +991,6 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
-        },
-        {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
           "url": "https://flash.jin10.com/detail/20260403010200558800",
           "source": "金十数据",
@@ -858,6 +1000,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
         },
         {
           "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
@@ -884,6 +1038,19 @@
           "time_info": "[06时31分 ~ 07时35分]"
         },
         {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 13时04分]"
+        },
+        {
           "title": "特朗普讲话后金银直线跳水",
           "url": "https://www.douyin.com/hot/2452230",
           "source": "抖音",
@@ -898,16 +1065,15 @@
           "time_info": "[00时02分 ~ 07时35分]"
         },
         {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时14分]"
+          "time_info": "[10时13分 ~ 13时04分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -920,17 +1086,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 07时35分]"
-        },
-        {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
@@ -965,6 +1120,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "白宫紧急下架特朗普讲话视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
+          "url": "https://www.cls.cn/detail/2334117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
@@ -1011,6 +1188,28 @@
           "time_info": "00时02分"
         },
         {
+          "title": "石破茂公开评价特朗普喜欢被奉承",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%85%AC%E5%BC%80%E8%AF%84%E4%BB%B7%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%AC%A2%E8%A2%AB%E5%A5%89%E6%89%BF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
           "url": "https://flash.jin10.com/detail/20260403003009535800",
           "source": "金十数据",
@@ -1042,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普再次威胁打击伊朗设施",
+          "url": "https://wallstreetcn.com/livenews/3081944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -1088,11 +1298,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 13时04分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -1243,22 +1454,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 13时04分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
