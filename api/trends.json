@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T07:48:46.101037+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-05-10T10:52:54.742167+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -17,28 +17,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 07时48分]"
-        },
-        {
-          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3101094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时48分]"
-        },
-        {
-          "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
-          "url": "https://flash.jin10.com/detail/20260510055726882800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时48分]"
         },
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -63,16 +41,16 @@
           "time_info": "00时55分"
         },
         {
-          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-          "url": "https://wallstreetcn.com/livenews/3101078",
+          "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3101094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            13
+            1,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "time_info": "[06时43分 ~ 10时52分]"
         },
         {
           "title": "伊朗战争丨伊朗驻华大使澄清中国油轮遇袭传言",
@@ -82,8 +60,44 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时52分]"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://wallstreetcn.com/livenews/3101078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "time_info": "[00时55分 ~ 10时52分]"
+        },
+        {
+          "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
+          "url": "https://wallstreetcn.com/livenews/3101098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+          "url": "https://flash.jin10.com/detail/20260510055726882800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时52分]"
         },
         {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
@@ -97,6 +111,67 @@
           "time_info": "[00时55分 ~ 07时48分]"
         },
         {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://wallstreetcn.com/livenews/3101068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 10时52分]"
+        },
+        {
+          "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
+          "url": "https://wallstreetcn.com/livenews/3101088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时52分]"
+        },
+        {
+          "title": "伊朗官员：提防美国“海盗式行动”",
+          "url": "https://wallstreetcn.com/livenews/3101089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时52分]"
+        },
+        {
+          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
+          "url": "https://wallstreetcn.com/livenews/3101091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时52分]"
+        },
+        {
+          "title": "美军：继续执行对伊朗的海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3101090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时52分]"
+        },
+        {
           "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
           "url": "https://news.ifeng.com/c/8szLTDMoDY1",
           "source": "凤凰网",
@@ -108,34 +183,11 @@
           "time_info": "[00时55分 ~ 06时43分]"
         },
         {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://wallstreetcn.com/livenews/3101068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 07时48分]"
-        },
-        {
           "title": "美高层会晤卡塔尔首相推动伊朗停火",
           "url": "https://flash.jin10.com/detail/20260510050317536800",
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时48分]"
-        },
-        {
-          "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
-          "url": "https://wallstreetcn.com/livenews/3101088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -153,42 +205,9 @@
           "time_info": "[06时43分 ~ 07时48分]"
         },
         {
-          "title": "伊朗官员：提防美国“海盗式行动”",
-          "url": "https://wallstreetcn.com/livenews/3101089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时48分]"
-        },
-        {
-          "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
-          "url": "https://wallstreetcn.com/livenews/3101091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时48分]"
-        },
-        {
           "title": "巴林外交大臣：伊朗的行径公然违反国际法规则、联合国宪章以及睦邻友好原则。",
           "url": "https://flash.jin10.com/detail/20260510043228732800",
           "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时48分]"
-        },
-        {
-          "title": "美军：继续执行对伊朗的海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3101090",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
@@ -307,6 +326,39 @@
           "time_info": "00时55分"
         },
         {
+          "title": "普京：伊朗战事让俄罗斯处境复杂",
+          "url": "https://www.toutiao.com/trending/7637689729144143878/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "伊官员：伊朗将继续行使自卫权 警惕美方敌对行动",
+          "url": "https://flash.jin10.com/detail/20260510083218523800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "据伊朗Press TV：有美军战机在伊拉克首都巴格达上空飞行。",
+          "url": "https://flash.jin10.com/detail/20260510082643945800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
           "url": "https://flash.jin10.com/detail/20260509230205331800",
           "source": "金十数据",
@@ -318,13 +370,24 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伊朗外长晒访华视频感谢中国",
+          "url": "https://www.toutiao.com/trending/7637769409326776347/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "伊朗：已没收262处“叛国者”房产",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E6%B2%A1%E6%94%B6262%E5%A4%84%E2%80%9C%E5%8F%9B%E5%9B%BD%E8%80%85%E2%80%9D%E6%88%BF%E4%BA%A7",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -343,7 +406,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -374,11 +437,24 @@
           "url": "https://wallstreetcn.com/livenews/3101087",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 10时52分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时48分]"
+          "time_info": "[07时48分 ~ 10时52分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -392,15 +468,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
+          "title": "媒体：特朗普还有一场“硬仗”",
+          "url": "https://www.toutiao.com/trending/7637911197945315370/",
+          "source": "今日头条",
           "ranks": [
-            10
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "10时52分"
         }
       ]
     },
@@ -408,6 +484,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时52分]"
+        },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
           "url": "https://wallstreetcn.com/articles/3771878",
@@ -421,16 +509,17 @@
           "time_info": "[00时55分 ~ 07时48分]"
         },
         {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
           "ranks": [
+            13,
             10,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "time_info": "[06时42分 ~ 10时52分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -443,46 +532,47 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 07时48分]"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时48分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
         {
           "title": "DeepSeek睁眼,开放识图模式",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 10时52分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
           "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 10时52分]"
         }
       ]
     },
