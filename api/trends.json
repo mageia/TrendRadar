@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T06:58:22.013368+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-05-25T08:04:47.131026+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗最高领袖顾问表示，如果再次遭遇攻击，伊朗将打破美国海军的封锁，并退出《不扩散核武器条约》。",
@@ -54,6 +54,18 @@
           "time_info": "[01时02分 ~ 06时58分]"
         },
         {
+          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
+          "url": "https://wallstreetcn.com/articles/3772994",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 08时04分]"
+        },
+        {
           "title": "阿曼与伊朗官员举行会晤，依据国际法讨论了霍尔木兹海峡航行自由的管辖原则。",
           "url": "https://wallstreetcn.com/livenews/3108524",
           "source": "华尔街见闻-快讯",
@@ -64,6 +76,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 06时58分]"
+        },
+        {
+          "title": "美国情报显示伊朗最高领袖藏匿于秘密地点，与外界沟通严重延迟",
+          "url": "https://flash.jin10.com/detail/20260525062231837800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
         },
         {
           "title": "美国官员：今天不会签订伊朗协议",
@@ -78,26 +102,40 @@
           "time_info": "[01时02分 ~ 06时58分]"
         },
         {
-          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
-          "url": "https://wallstreetcn.com/articles/3772994",
-          "source": "华尔街见闻",
+          "title": "伊朗方面称现阶段伊尚未就核问题的细节做出任何承诺",
+          "url": "https://wallstreetcn.com/livenews/3108556",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "time_info": "[06时58分 ~ 08时04分]"
         },
         {
-          "title": "美国情报显示伊朗最高领袖藏匿于秘密地点，与外界沟通严重延迟",
-          "url": "https://flash.jin10.com/detail/20260525062231837800",
-          "source": "金十数据",
+          "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
+          "url": "https://wallstreetcn.com/livenews/3108549",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "阿曼与伊朗讨论霍尔木兹海峡通航问题",
+          "url": "https://wallstreetcn.com/livenews/3108536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
         },
         {
           "title": "阿曼与伊朗就霍尔木兹海峡航运等议题举行磋商",
@@ -109,28 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "伊朗方面称现阶段伊尚未就核问题的细节做出任何承诺",
-          "url": "https://wallstreetcn.com/livenews/3108556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
-          "url": "https://wallstreetcn.com/livenews/3108549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
         },
         {
           "title": "伊朗最高领袖的顾问：管理霍尔木兹海峡是伊朗确保国家安全的“合法权利”。 伊朗对霍尔木兹海峡的管辖结束了波斯湾长达50年的不安全状态。（伊朗媒体Tasnim）",
@@ -175,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美伊谈判进展扰动市场：美油跌超5%！美方放风“数小时内或有好消息”，伊朗谨慎",
+          "url": "https://flash.jin10.com/detail/20260525064631414800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "伊朗称过去24小时33艘船通过霍尔木兹海峡",
@@ -230,17 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "阿曼与伊朗讨论霍尔木兹海峡通航问题",
-          "url": "https://wallstreetcn.com/livenews/3108536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
         },
         {
           "title": "据福克斯新闻援引一位美国高级政府官员的话称，与伊朗的协议今天不会签署，但我们正在朝着这一目标取得进展。",
@@ -304,7 +320,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -326,7 +342,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -356,7 +372,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -366,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 08时04分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -378,8 +394,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 08时04分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -389,8 +405,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -398,11 +414,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 08时04分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -417,6 +434,18 @@
           "time_info": "[01时02分 ~ 06时58分]"
         },
         {
+          "title": "特朗普一季度做了3711笔证券交易",
+          "url": "https://www.toutiao.com/trending/7643303101427879430/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 08时04分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3108523",
           "source": "华尔街见闻-快讯",
@@ -429,15 +458,27 @@
           "time_info": "[01时02分 ~ 06时58分]"
         },
         {
-          "title": "特朗普一季度做了3711笔证券交易",
-          "url": "https://www.toutiao.com/trending/7643303101427879430/",
-          "source": "今日头条",
+          "title": "特朗普：美伊协议“尚未完全谈妥”",
+          "url": "https://wallstreetcn.com/livenews/3108545",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            13,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普称美伊协议“未谈妥”",
+          "url": "https://www.douyin.com/hot/2511044",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
@@ -462,17 +503,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "特朗普：美伊协议“尚未完全谈妥”",
-          "url": "https://wallstreetcn.com/livenews/3108545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
           "url": "https://wallstreetcn.com/livenews/3108501",
           "source": "华尔街见闻-快讯",
@@ -482,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普称美伊协议未谈妥：封锁将持续",
+          "url": "https://www.toutiao.com/trending/7643602399059250731/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -494,11 +535,12 @@
           "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 08时04分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -509,8 +551,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 08时04分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -520,8 +562,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 08时04分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -531,8 +573,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 06时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 08时04分]"
         }
       ]
     },
@@ -556,11 +598,29 @@
           "url": "https://flash.jin10.com/detail/20260525060644652800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
+          "url": "https://flash.jin10.com/detail/20260525070547710800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时58分"
+          "time_info": "08时04分"
         }
       ]
     },
@@ -573,11 +633,12 @@
           "url": "https://flash.jin10.com/detail/20260525063241130800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
         }
       ]
     }
