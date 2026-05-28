@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T15:57:39.450655+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-05-28T19:40:29.204276+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -40,6 +40,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 07时17分]"
+        },
+        {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 19时40分]"
         },
         {
           "title": "伊朗先发制人了",
@@ -94,7 +107,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -110,16 +123,15 @@
           "time_info": "11时32分"
         },
         {
-          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
-          "url": "https://wallstreetcn.com/articles/3773253",
-          "source": "华尔街见闻",
+          "title": "伊朗革命卫队称阻止数艘船只进入波斯湾",
+          "url": "https://wallstreetcn.com/livenews/3110710",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 15时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美国对伊朗发动新一轮打击后油价攀升",
@@ -128,9 +140,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2043104464907629617",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 19时40分]"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -145,16 +169,16 @@
           "time_info": "[00时36分 ~ 07时17分]"
         },
         {
-          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2043104464907629617",
-          "source": "知乎",
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            11
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 15时57分]"
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 19时40分]"
         },
         {
           "title": "美国伊朗开始爆发直接冲突",
@@ -166,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 19时40分]"
         },
         {
           "title": "美媒：美军再次短暂空袭伊朗",
@@ -196,7 +231,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -218,7 +253,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -251,29 +286,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -289,6 +302,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "科威特方面对伊朗周四对其领土的攻击表示谴责，称保留采取一切措施以维护国家安全的权利。",
+          "url": "https://flash.jin10.com/detail/20260528190833770800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "美军证实拦截5架伊朗无人机",
+          "url": "https://wallstreetcn.com/livenews/3110697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "伊朗外长和新西兰外长通话",
           "url": "https://flash.jin10.com/detail/20260527235001725800",
           "source": "金十数据",
@@ -298,6 +333,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "【美军称伊朗向科威特发射的导弹遭拦截】美军中央司令部28日说，美国东部时间27日22时17分，伊朗向科威特发射了一枚弹道导弹，该导弹被科威特军队成功拦截。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3110694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：将对任何破坏霍尔木兹海峡的行为予以“果断”回应。",
+          "url": "https://wallstreetcn.com/livenews/3110693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "欧洲央行首席经济学家：伊朗战争将对通胀产生持久影响",
@@ -311,6 +368,17 @@
           "time_info": "11时32分"
         },
         {
+          "title": "伊朗在过去24小时内允许26艘船只通过霍尔木兹海峡。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3110692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "伊朗南部发生能源设施装置事故致1死2伤",
           "url": "https://wallstreetcn.com/livenews/3110168",
           "source": "华尔街见闻-快讯",
@@ -320,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国：伊朗向科威特发射的导弹已被拦截。 伊朗此举是对停火协议的严重违反。",
+          "url": "https://wallstreetcn.com/livenews/3110688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "俄罗斯国家原子能公司负责人：决定推迟让工作人员返回伊朗布什尔核电站。",
@@ -342,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：美国和以色列企图制造分裂",
+          "url": "https://wallstreetcn.com/livenews/3110685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美国财长贝森特：美国财政部继续对伊朗施加最大压力。",
@@ -380,18 +470,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
           "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 19时40分]"
         },
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -422,11 +513,25 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            5
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 19时40分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时31分 ~ 15时57分]"
+          "time_info": "[11时32分 ~ 19时40分]"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -506,16 +611,26 @@
           "time_info": "07时17分"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
+          "title": "美国财长贝森特感谢纽约梅隆银行和Robinhood在处理特朗普账户方面所做的工作。",
+          "url": "https://wallstreetcn.com/livenews/3110708",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美国总统特朗普：我们得到了其他国家的巨大支持。",
@@ -730,8 +845,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 19时40分]"
+        },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
           "url": "https://www.cls.cn/detail/2383514",
@@ -743,17 +870,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时16分 ~ 15时57分]"
-        },
-        {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时57分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
@@ -807,9 +923,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "柯尔百货第一季度销售净额30亿美元，预估29.9亿美元。 第一季度每股亏损0.13美元，上年同期每股亏损0.13美元。 柯尔百货仍然预测全年营业利益率2.8％至3.4％，市场预估3.28％。 柯尔百货仍然预测全年调整后每股收益1美元至1.60美元，市场预估1.34美元。 柯尔百货预计全年资本支出3.50亿美元至4.00亿美元，市场预估3.731亿美元。 柯尔百货美股盘前涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3110695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美股走低，标普500指数跌0.1%，纳指下跌0.4%，道指涨0.3%。",
@@ -834,6 +961,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3110691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "礼来美股盘前涨近2%，美国大型医疗保健公司CVS将礼来公司的Zepbound纳入首选药物清单，此举与之前做法相反。",
+          "url": "https://wallstreetcn.com/livenews/3110687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
           "url": "https://wallstreetcn.com/livenews/3110274",
           "source": "华尔街见闻-快讯",
@@ -848,7 +997,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -862,13 +1011,24 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "\"DeepSeek崩了\"冲上热搜，当前已恢复",
           "url": "https://wallstreetcn.com/livenews/3110550",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -882,6 +1042,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价跌了反而不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "美伊僵局与美联储鹰派风险双重施压 金价跌至两个月新低",
+          "url": "https://flash.jin10.com/detail/20260528153709250800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
@@ -910,34 +1120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "美伊僵局与美联储鹰派风险双重施压 金价跌至两个月新低",
-          "url": "https://flash.jin10.com/detail/20260528153709250800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         }
       ]
     },
