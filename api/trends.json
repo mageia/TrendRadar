@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T13:17:56.608880+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-05-31T16:44:35.245980+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -30,24 +30,13 @@
           "time_info": "01时03分"
         },
         {
-          "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
-          "url": "https://flash.jin10.com/detail/20260531123650502800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
           "url": "https://flash.jin10.com/detail/20260531123639729800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -69,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -80,18 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
-          "url": "https://wallstreetcn.com/livenews/3111873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -106,6 +84,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时03分 ~ 13时17分]"
+        },
+        {
+          "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
+          "url": "https://flash.jin10.com/detail/20260531123650502800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时44分]"
+        },
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://wallstreetcn.com/livenews/3111873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时44分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -143,6 +157,29 @@
           "time_info": "[01时03分 ~ 08时04分]"
         },
         {
+          "title": "特朗普：美伊若无法达成协议，“战争部”将介入",
+          "url": "https://news.ifeng.com/c/8tZS9zcXgA5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时44分]"
+        },
+        {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时44分]"
+        },
+        {
           "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
           "url": "https://news.ifeng.com/c/8tYiCwmfwnC",
           "source": "凤凰网",
@@ -154,37 +191,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "特朗普：美伊若无法达成协议，“战争部”将介入",
-          "url": "https://news.ifeng.com/c/8tZS9zcXgA5",
+          "title": "30年前的“摧毁飞机谋杀案”，特朗普给翻出来了",
+          "url": "https://news.ifeng.com/c/8tZclGoODbk",
           "source": "凤凰网",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时44分"
         },
         {
           "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
@@ -193,7 +208,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -207,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "特朗普要求修改特使谈成的伊朗协议，美国封杀霍尔木兹“买路钱”",
+          "url": "https://flash.jin10.com/detail/20260531145730531800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
@@ -223,7 +249,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
@@ -233,11 +259,12 @@
             14,
             4,
             3,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 16时44分]"
         },
         {
           "title": "伊朗谈判代表：与美协议未最终敲定 拟议协议允许伊朗设置退出机制",
@@ -346,6 +373,18 @@
           "time_info": "[06时58分 ~ 08时04分]"
         },
         {
+          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
+          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时44分]"
+        },
+        {
           "title": "伊朗官员：对伊朗的海上封锁终将结束",
           "url": "https://flash.jin10.com/detail/20260531033706700800",
           "source": "金十数据",
@@ -355,6 +394,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3111863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时44分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
@@ -379,26 +430,15 @@
           "time_info": "[06时58分 ~ 08时04分]"
         },
         {
-          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
-          "url": "https://v.ifeng.com/c/8tZLWOELypO",
-          "source": "凤凰网",
+          "title": "据伊朗伊斯兰共和国通讯社：伊朗议会主席团成员宣誓就职。仪式由议长卡利巴夫主持，187名代表在线参会，14名代表到场参会。",
+          "url": "https://flash.jin10.com/detail/20260531154748281800",
+          "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3111863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时44分"
         }
       ]
     },
@@ -429,8 +469,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 16时44分]"
         }
       ]
     },
