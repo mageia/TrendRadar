@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T11:24:39.187341+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-06-06T14:52:30.658866+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
+        },
+        {
+          "title": "普京：感谢特朗普调教泽连斯基举止",
+          "url": "https://www.toutiao.com/trending/7648146652452245030/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -50,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普：将迅速结束伊朗战事",
-          "url": "https://news.ifeng.com/c/8tjENyLisNK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         },
         {
           "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
@@ -130,6 +141,18 @@
           "time_info": "[01时54分 ~ 07时08分]"
         },
         {
+          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
+          "url": "https://wallstreetcn.com/livenews/3115408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
           "url": "https://flash.jin10.com/detail/20260606060212679800",
           "source": "金十数据",
@@ -158,7 +181,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -183,17 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
-          "url": "https://wallstreetcn.com/livenews/3115408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         },
         {
           "title": "美国总统特朗普：（谈及能源与化肥领域）正在筹划相关举措。",
@@ -262,6 +274,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "美国总统特朗普：伊朗冲突结束之后，我们“准备开干（古巴）”。",
           "url": "https://wallstreetcn.com/livenews/3115359",
           "source": "华尔街见闻-快讯",
@@ -301,7 +324,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -334,7 +357,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -356,7 +379,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -375,7 +398,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
@@ -387,6 +410,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗称美军第五舰队总部遭打击，美方否认",
+          "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "美国军事网站“战区”报道称，美国空军正紧急寻求填补MQ-9无人机库存，此前该机型在针对伊朗的行动中损失了近30架，在针对胡塞武装的任务中也有所损失。由于MQ-9A已停产，美国空军计划从通用原子公司采购未使用的库存飞机，但可供采购的数量不足10架。美军MQ-9机队规模已从2026财年初的165架减少到目前的约135架。",
+          "url": "https://flash.jin10.com/detail/20260606143356956800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "风水轮流转，轮到伊朗威胁美国了",
+          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -401,15 +468,40 @@
           "time_info": "[01时54分 ~ 07时08分]"
         },
         {
-          "title": "风水轮流转，轮到伊朗威胁美国了",
-          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
-          "source": "凤凰网",
+          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
+        },
+        {
+          "title": "美军称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3115405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
+        },
+        {
+          "title": "伊朗革命卫队称中东地区美军基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3115402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
         },
         {
           "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
@@ -423,15 +515,26 @@
           "time_info": "07时08分"
         },
         {
-          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
-          "url": "https://wallstreetcn.com/livenews/3115407",
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
@@ -440,18 +543,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "美军称拦截伊朗导弹和无人机",
-          "url": "https://wallstreetcn.com/livenews/3115405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -473,7 +565,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -484,7 +576,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -495,18 +587,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "伊朗革命卫队称中东地区美军基地遭袭",
-          "url": "https://wallstreetcn.com/livenews/3115402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -528,7 +609,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -539,7 +620,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -550,7 +631,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -561,7 +642,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -583,7 +664,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -594,7 +675,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -605,7 +686,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -627,7 +708,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -638,7 +719,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -657,8 +738,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 11时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 14时52分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -669,8 +750,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 11时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 14时52分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -681,8 +762,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 11时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 14时52分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -691,9 +772,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
         },
         {
           "title": "美股三大指数齐跌 纳指跌逾千点",
@@ -702,7 +783,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -724,7 +805,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -773,11 +854,12 @@
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
         },
         {
           "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
@@ -786,7 +868,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -808,7 +890,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -823,11 +905,12 @@
           "url": "https://wallstreetcn.com/articles/3773996",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -873,11 +956,12 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 14时52分]"
         }
       ]
     },
@@ -921,7 +1005,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
