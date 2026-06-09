@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-09T07:12:23.405840+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-06-09T11:26:09.952622+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "“未来两周将对伊朗全面胜利”",
+          "url": "https://news.ifeng.com/c/8to7gfqUzZi",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
         {
           "title": "伊朗民航组织：全国航空活动恢复正常",
           "url": "https://flash.jin10.com/detail/20260609004658299800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "伊朗和以色列先后宣布停止袭击对方",
@@ -71,7 +93,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -82,7 +104,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -104,7 +126,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -137,7 +159,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -164,6 +186,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美副总统：美以在推动与伊朗达成核问题协议上可能存在利益分歧",
+          "url": "https://wallstreetcn.com/livenews/3116463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "以色列总理确认暂停袭击伊朗",
           "url": "https://wallstreetcn.com/livenews/3116251",
           "source": "华尔街见闻-快讯",
@@ -181,7 +214,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -192,16 +225,38 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "伊朗首都国际机场恢复航班运营",
+          "url": "https://wallstreetcn.com/livenews/3116449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普：内塔尼亚胡，你最好小心点！",
+          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
           "url": "https://wallstreetcn.com/articles/3774049",
@@ -214,15 +269,38 @@
           "time_info": "[01时22分 ~ 07时12分]"
         },
         {
+          "title": "特朗普提名前私人律师，任司法部长",
+          "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
           "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
           "url": "https://www.zhihu.com/question/2047287128892224880",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 11时26分]"
         },
         {
           "title": "24小时惊险内幕：以色列与伊朗如何险些将特朗普拖回战争？",
@@ -231,9 +309,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 11时26分]"
+        },
+        {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -270,16 +372,15 @@
           "time_info": "[01时22分 ~ 07时12分]"
         },
         {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
+          "title": "特朗普观战NBA总决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%82%E6%88%98NBA%E6%80%BB%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时22分 ~ 07时12分]"
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "FTX联合创始人SBF正式申请特朗普特赦",
@@ -299,7 +400,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -310,7 +411,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -321,7 +422,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -332,16 +433,61 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "遭到特朗普警告后伊以双方暂时停火，现货金银卖出信号仍强、美油陷入多空拉锯......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260609105757687800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 11时26分]"
+        },
+        {
+          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
+          "url": "https://www.cls.cn/detail/2394207",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 11时26分]"
+        },
+        {
+          "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
+          "url": "https://www.cls.cn/detail/2394225",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
           "url": "https://wallstreetcn.com/articles/3774056",
@@ -352,28 +498,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
-          "url": "https://www.cls.cn/detail/2394207",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
         },
         {
           "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
@@ -435,8 +559,52 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "OpenAI秘密递交IPO申请，最快或于今年第四季度上市",
+          "url": "https://flash.jin10.com/detail/20260609105904305800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3116363",
@@ -444,7 +612,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -455,7 +623,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -466,7 +634,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -477,47 +645,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价下跌后郑州金店被挤爆",
-          "url": "https://www.toutiao.com/trending/7648415475306889252/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 07时12分]"
-        },
-        {
-          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
-          "url": "https://www.zhihu.com/question/2046542725336584487",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时12分"
         }
@@ -525,8 +653,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
+        },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
           "url": "https://flash.jin10.com/detail/20260609001051651800",
@@ -548,6 +698,75 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价下跌后郑州金店被挤爆",
+          "url": "https://www.toutiao.com/trending/7648415475306889252/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 07时12分]"
+        },
+        {
+          "title": "金十图示：2026年06月09日（周二）上海金早盘价为946.07元/克，较国际金价(944.4元/克)，高1.67元/克",
+          "url": "https://flash.jin10.com/detail/20260609110653400800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 11时26分]"
+        },
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+          "url": "https://wallstreetcn.com/livenews/3116486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     }
