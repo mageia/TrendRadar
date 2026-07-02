@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T18:38:57.134342+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-07-02T20:57:50.747905+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
@@ -41,6 +41,18 @@
           "time_info": "01时55分"
         },
         {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
           "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
           "source": "凤凰网",
@@ -50,6 +62,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时32分 ~ 18时38分]"
+        },
+        {
+          "title": "伊朗国家队回国向民众道歉",
+          "url": "https://www.toutiao.com/trending/7657124026443402793/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
@@ -72,17 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
@@ -146,7 +158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -212,7 +224,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -231,7 +243,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普回应赚数十亿美元：靠股市上涨，自己“不管投资”",
@@ -267,13 +279,25 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 20时57分]"
+        },
+        {
           "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
           "url": "https://www.cls.cn/detail/2414901",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -287,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
@@ -333,6 +346,28 @@
           "time_info": "01时55分"
         },
         {
+          "title": "美国总统特朗普：美国在北约上的开支比其他国多，真是荒谬。",
+          "url": "https://wallstreetcn.com/livenews/3128023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普再批西班牙：表现不好 会得到教训",
+          "url": "https://wallstreetcn.com/livenews/3128022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
           "url": "https://wallstreetcn.com/livenews/3127615",
           "source": "华尔街见闻-快讯",
@@ -358,7 +393,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
@@ -374,6 +409,18 @@
           "time_info": "[07时14分 ~ 15时32分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时57分]"
+        },
+        {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
           "url": "https://wallstreetcn.com/articles/3775932",
           "source": "华尔街见闻",
@@ -383,18 +430,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 01时55分]"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时38分]"
         },
         {
           "title": "美股",
@@ -418,6 +453,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 01时55分]"
+        },
+        {
+          "title": "美股三大股指期货在六月非农数据公布后延续涨势，纳指期货涨幅扩大至0.4%。",
+          "url": "https://flash.jin10.com/detail/20260702203314831800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国非农数据公布后，美股股指期货快速拉升",
+          "url": "https://wallstreetcn.com/livenews/3128043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股盘中）",
@@ -451,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美股三大股指期货转涨，美光科技盘前反弹",
+          "url": "https://wallstreetcn.com/livenews/3128027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
@@ -517,6 +585,84 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 01时55分]"
+        },
+        {
+          "title": "非农数据削减加息预期，美股期指拉升，美债收益率直线走低，黄金涨幅扩大至2%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国国债收益率在非农报告发布后下跌，10年期美债收益率最新下跌1.76个基点，报4.457%。",
+          "url": "https://flash.jin10.com/detail/20260702203339598800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数在非农公布后跌至两周低点100.58。",
+          "url": "https://wallstreetcn.com/livenews/3128054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美元指数DXY短线下挫30点，报100.85。",
+          "url": "https://flash.jin10.com/detail/20260702203107070800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
+          "url": "https://wallstreetcn.com/livenews/3127549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -539,7 +685,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -588,40 +734,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 15时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
-          "url": "https://wallstreetcn.com/livenews/3127549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
         }
       ]
     }
