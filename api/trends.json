@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T21:42:44.363029+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-07-24T23:25:42.400305+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -16,8 +16,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 21时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 23时25分]"
+        },
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 23时25分]"
         },
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
@@ -64,17 +75,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
-          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
           "url": "https://www.zhihu.com/question/2063259853338972886",
           "source": "知乎",
@@ -117,9 +117,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "伊朗战事扰乱供应链 印度健怡可乐涨价换包装",
+          "url": "https://wallstreetcn.com/livenews/3139537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "阿曼代表抵达伊朗首都德黑兰，将讨论霍尔木兹海峡问题。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3139534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "伊朗外长：美伊之间不缺斡旋方 问题在于美国本身",
+          "url": "https://wallstreetcn.com/livenews/3139533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "伊朗称袭击地区内美军设施 摧毁一套“爱国者”防空系统",
@@ -128,7 +161,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -161,7 +194,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -183,7 +216,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -208,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "伊朗外长：美伊之间不缺斡旋方 问题在于美国本身",
+          "url": "https://flash.jin10.com/detail/20260724224834739800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "伊朗外交部长：一旦政府将没收资产常态化，那么所有人的资产都将不再安全。由此引发的混乱将不会温和有序。",
@@ -260,9 +304,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美国财政部宣布对伊朗实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3139521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美威胁发动空前打击，伊朗、胡塞武装：已做好应战准备",
@@ -282,7 +337,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -337,7 +392,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -400,7 +455,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -410,8 +465,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 21时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 23时25分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -432,11 +487,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 21时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 23时25分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -493,7 +549,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -504,9 +560,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "美国麻疹感染人数创最近35年新高，原CDC主管担心特朗普的卫生部长会让这成为新常态",
+          "url": "https://wallstreetcn.com/livenews/3139539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
@@ -560,9 +627,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "以总理办公室：内塔尼亚胡将访美 与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3139529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "25家科技巨头联名施压特朗普：切勿全面限制开放权重AI模型",
+          "url": "https://flash.jin10.com/detail/20260724224925524800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国总统特朗普宣称：船只的损失将由“伊朗资金”来赔偿。 货物损失将用（美国方借制裁而扣留的）伊朗的钱来赔偿。 这些损失可能非常巨大。 这样做是公平的。",
@@ -596,12 +685,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "以总理办公室：内塔尼亚胡将访美 与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20260724223621938800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -612,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时56分 ~ 21时42分]"
+          "appearance_count": 9,
+          "time_info": "[06时56分 ~ 23时25分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -623,8 +734,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 21时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 23时25分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -707,6 +818,28 @@
           "time_info": "19时41分"
         },
         {
+          "title": "纳斯达克100指数跌1.2%， 美股存储芯片指数维持超过6.4%的跌幅，成分股闪迪目前跌9.4%、美光跌6.6%、西部数据跌5.8%、希捷科技跌4.9%。 费城半导体指数目前跌4.1%，成分股也全线溃败，Credo科技跌10%、Astera Labs跌9.3%、高意公司/相干公司Coherent跌8.8%、迈威尔科技/美满电子跌7%、美光跌幅第五大、Rambus跌6.4%、英伟达跌0.3%表现“顺数第二”。",
+          "url": "https://wallstreetcn.com/livenews/3139535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美股财报季陷入尴尬：企业利润大涨，股价却不涨",
+          "url": "https://flash.jin10.com/detail/20260724230153672800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "斯伦贝谢第二季度营收89.7亿美元，预期86.9亿美元。 第二季度调整后每股收益55美分，预期51美分。 第二季度调整后EBITDA为19.0亿美元，预期17.8亿美元。 第二季度资本支出4.59亿美元，预期4.88亿美元。 斯伦贝谢美股盘前涨2.5%。",
           "url": "https://wallstreetcn.com/livenews/3139443",
           "source": "华尔街见闻-快讯",
@@ -724,7 +857,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -746,7 +879,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -773,11 +906,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 23时25分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -796,11 +930,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 23时25分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -916,7 +1051,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -965,13 +1100,24 @@
           "time_info": "[01时22分 ~ 06时56分]"
         },
         {
+          "title": "谷歌公司签署《欧盟人工智能法案》透明度行为准则。 谷歌说：该欧盟准则涉及人工智能（AI）生成内容的透明度。",
+          "url": "https://wallstreetcn.com/livenews/3139536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "Verizon与谷歌签署10亿美元数据中心协议。",
           "url": "https://wallstreetcn.com/livenews/3139484",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -982,9 +1128,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：欧盟关于人工智能生成内容透明度的法规，是基于2025年签署通用人工智能（GPAI）行为准则的延续。",
+          "url": "https://flash.jin10.com/detail/20260724225323034800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)签署欧盟人工智能法案透明度行为准则。",
+          "url": "https://flash.jin10.com/detail/20260724225207706800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
