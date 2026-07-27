@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:31:57.347129+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-07-27T20:24:26.565393+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -70,7 +70,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -97,13 +97,35 @@
           "time_info": "06时59分"
         },
         {
+          "title": "知情人士：美军中东最高指挥官认为空袭伊朗难再见效",
+          "url": "https://news.ifeng.com/c/8v6QdWrNJZ0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：乌克兰总统泽连斯基的“长辈们”应该管好他。",
           "url": "https://flash.jin10.com/detail/20260727161051359800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -130,6 +152,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时59分 ~ 08时05分]"
+        },
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 20时24分]"
         },
         {
           "title": "伊朗最高领袖：保卫黎巴嫩是伊“战略使命”",
@@ -192,16 +227,28 @@
           "time_info": "[01时00分 ~ 06时59分]"
         },
         {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
+          "title": "乌克兰此时打击伊朗商船，图啥？",
+          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 20时24分]"
+        },
+        {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 20时24分]"
         },
         {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
@@ -214,17 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 06时59分]"
-        },
-        {
-          "title": "乌克兰此时打击伊朗商船，图啥？",
-          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时31分]"
         },
         {
           "title": "伊朗外交部：伊美间信息交流及斡旋方活动仍在进行",
@@ -286,18 +322,6 @@
           "time_info": "[06时59分 ~ 08时05分]"
         },
         {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时31分]"
-        },
-        {
           "title": "伊朗商船在里海遭袭 伊外长：绝不能不予以回应",
           "url": "https://wallstreetcn.com/livenews/3139870",
           "source": "华尔街见闻-快讯",
@@ -350,9 +374,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：数小时前，位于沙特阿拉伯东部的大型布盖格石油设施——全球最重要的石油加工中心之一，在无人机和导弹袭击中起火。",
+          "url": "https://flash.jin10.com/detail/20260727194722920800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "伊朗外交部发言人：目前伊美没有任何谈判",
@@ -361,7 +396,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -372,7 +407,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -383,7 +418,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -394,7 +429,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -405,7 +440,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -427,7 +462,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -449,7 +484,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -498,6 +533,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "据沙特阿拉伯阿拉比亚电视台：一名安全消息人士称，4架无人机袭击了位于伊拉克埃尔比勒詹姆萨里地区的伊朗库尔德斯坦自由党总部。",
+          "url": "https://flash.jin10.com/detail/20260727193534865800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐与俄罗斯外长拉夫罗夫今天下午进行了通话，讨论了最新的地区和国际局势。",
           "url": "https://flash.jin10.com/detail/20260726232609617800",
           "source": "金十数据",
@@ -526,7 +572,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -542,13 +588,24 @@
           "time_info": "01时00分"
         },
         {
+          "title": "据伊朗媒体：伊朗议会副议长称，伊朗将对乌克兰在里海的挑衅行为作出回应，而乌方将为此感到遗憾。",
+          "url": "https://flash.jin10.com/detail/20260727193345319800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
           "url": "https://wallstreetcn.com/livenews/3140125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -570,9 +627,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗军方警告称，未来任何的侵略行动都将遭到更强烈反击。",
+          "url": "https://flash.jin10.com/detail/20260727193134702800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "伊朗：与阿曼就霍尔木兹海峡的会谈“富有成效”，谈判将继续。",
@@ -581,7 +649,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -603,7 +671,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -622,7 +690,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -664,11 +732,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 20时24分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -688,9 +757,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -740,6 +820,17 @@
           "time_info": "01时00分"
         },
         {
+          "title": "克里姆林宫发言人佩斯科夫：普京即将举行的会谈不会涉及特朗普，但仍具有重要意义。",
+          "url": "https://flash.jin10.com/detail/20260727194347581800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美伊刚降温，内塔尼亚胡却赴美施压特朗普：别让伊朗核计划“死灰复燃”",
           "url": "https://flash.jin10.com/detail/20260727073444945800",
           "source": "金十数据",
@@ -751,6 +842,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "据以色列第12频道援引消息人士称，内塔尼亚胡将请求特朗普不要向土耳其出售武器系统和F-35战斗机。",
+          "url": "https://flash.jin10.com/detail/20260727194215895800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
           "url": "https://wallstreetcn.com/livenews/3139844",
           "source": "华尔街见闻-快讯",
@@ -760,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
+        },
+        {
+          "title": "据以色列第12频道援引消息来人士称，内塔尼亚胡将向特朗普提供有关伊朗迈向拥有核武器进程的最新情报信息。",
+          "url": "https://flash.jin10.com/detail/20260727194108715800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
@@ -850,6 +963,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：在与特朗普的会议中，将讨论议程上的所有问题，其中伊朗是重中之重。我们的目标明确——确保以色列的安全，增强以色列实力，扩大周围的和平圈。",
+          "url": "https://flash.jin10.com/detail/20260727192920582800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
           "url": "https://wallstreetcn.com/livenews/3139824",
           "source": "华尔街见闻-快讯",
@@ -864,7 +988,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
@@ -895,11 +1019,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 20时24分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
@@ -967,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "OpenAI宣布在爱尔兰扩张，预计新增250个新岗位",
+          "url": "https://flash.jin10.com/detail/20260727192930998800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
@@ -992,7 +1128,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1038,7 +1174,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1049,7 +1185,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -1057,7 +1193,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋打新长鑫浮盈8.27亿",
@@ -1066,9 +1202,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "梁文锋打新长鑫浮盈8.27亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "梁文锋打新长鑫科技浮盈8.27亿",
@@ -1077,7 +1224,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -1085,8 +1232,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "停火先砸油价再救金价，多空争夺战移交美联储｜黄金头条",
           "url": "https://flash.jin10.com/detail/20260727115631436800",
@@ -1097,6 +1255,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率不肯降，谁会先被流动性卡住？",
+          "url": "https://flash.jin10.com/detail/20260727194902599800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
