@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T18:49:58.977124+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-08-03T21:41:14.720712+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时29分 ~ 18时49分]"
+        },
+        {
+          "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
+          "url": "https://news.ifeng.com/c/8vIQYttFgB2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
@@ -83,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "据悉伊朗已拒绝美国关于霍尔木兹海峡的提议",
+          "url": "https://flash.jin10.com/detail/20260803211208834800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "黎巴嫩力量党主席萨米尔·贾加：这场危机只有在伊朗政权垮台或至少改变其行为和影响力的情况下才能结束。",
@@ -180,6 +202,18 @@
           "time_info": "[01时11分 ~ 06时56分]"
         },
         {
+          "title": "伊朗称在霍尔木兹上空击落一架无人机",
+          "url": "https://www.toutiao.com/trending/7669730325030768182/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时41分]"
+        },
+        {
           "title": "伊朗代理防长：敌方任何威胁都值得重视",
           "url": "https://wallstreetcn.com/livenews/3143680",
           "source": "华尔街见闻-快讯",
@@ -270,6 +304,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "报道：伊朗已拒绝美国关于霍尔木兹海峡的提议",
+          "url": "https://wallstreetcn.com/livenews/3144180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "伊朗袭击乌军基地？实为纽约大火",
           "url": "https://www.toutiao.com/trending/7669212085427339283/",
           "source": "今日头条",
@@ -287,7 +332,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -331,7 +376,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -369,17 +414,6 @@
           "time_info": "06时56分"
         },
         {
-          "title": "伊朗称在霍尔木兹上空击落一架无人机",
-          "url": "https://www.toutiao.com/trending/7669730325030768182/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
           "title": "伊朗外交部发言人：伊朗与阿曼的会谈是双边的，不涉及其他任何方。我们重申，霍尔木兹海峡的局势不会回到战争前的状态。",
           "url": "https://flash.jin10.com/detail/20260803003809252800",
           "source": "金十数据",
@@ -408,7 +442,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -446,6 +480,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "市场消息：伊朗战争使比利时在7月完全依赖俄罗斯液化天然气。",
+          "url": "https://flash.jin10.com/detail/20260803205255968800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "黎巴嫩力量党主席萨米尔·贾加：我怀疑美国会在未解决伊朗核问题以及霍尔木兹海峡危机的情况下结束战争。",
           "url": "https://flash.jin10.com/detail/20260803001748142800",
           "source": "金十数据",
@@ -466,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "伊朗谴责美沙联合打击伊拉克民兵武装",
+          "url": "https://wallstreetcn.com/livenews/3144161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "伊朗代理国防部长：伊朗不会被敌人“打得措手不及”，也不会对这坐视不管。",
@@ -504,7 +560,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -555,6 +611,18 @@
           "time_info": "[00时01分 ~ 07时59分]"
         },
         {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 21时41分]"
+        },
+        {
           "title": "接连反转！特朗普透露三个信息",
           "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
           "source": "凤凰网",
@@ -590,16 +658,15 @@
           "time_info": "[14时59分 ~ 15时01分]"
         },
         {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
+          "title": "白宫发言人：美国总统特朗普将于周二访问加利福尼亚州，周三前往内华达州，宣传经济成就。",
+          "url": "https://flash.jin10.com/detail/20260803211545972800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 18时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -733,6 +800,17 @@
           "time_info": "[00时02分 ~ 01时11分]"
         },
         {
+          "title": "美媒：因凡蒂诺求助特朗普保其职位",
+          "url": "https://www.toutiao.com/trending/7669763103931764251/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
           "title": "摩洛哥国王决定以特朗普名字命名公路",
           "url": "https://www.toutiao.com/trending/7669384893911973894/",
           "source": "今日头条",
@@ -808,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "10万美元提前看特朗普帖文服务上线",
+          "url": "https://wallstreetcn.com/livenews/3144166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美国总统特朗普：（关于日元）美国介入是因为与日本关系良好，我们始终支持日本，美国从相关安排中获得了经济利益。",
@@ -890,7 +979,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -906,6 +995,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时01分 ~ 15时01分]"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -944,6 +1044,18 @@
           "time_info": "[06时56分 ~ 07时59分]"
         },
         {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时41分]"
+        },
+        {
           "title": "全球大模型进入DeepSeek斩杀区",
           "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -961,18 +1073,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-          "url": "https://www.zhihu.com/question/2067512422555029717",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -983,7 +1084,114 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 07时59分]"
+        },
+        {
+          "title": "亚马逊美股盘初涨超4%，市值突破3万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3144189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美股三大股指小幅高开，道指涨0.52%，标普500指数涨0.33%，纳指涨0.3%。阿里巴巴涨超3%，此前发布千问3.8-MAX，长程自动编程表现出色；科技股涨跌不一，微软、亚马逊均涨超2%；美光科技、闪迪跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3144187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时41分]"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803210000423800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3144172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "高盛：将应用材料(AMAT.O)、达美航空(DAL.N)、微软(MSFT.O)、联合包裹(UPS.N)等纳入美股确信买入名单。将博通(AVGO.O)、迪克体育用品(DKS.N)、强生(JNJ.N)和ServiceNow移出该名单。",
+          "url": "https://flash.jin10.com/detail/20260803181723538800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
@@ -1013,9 +1221,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时41分]"
         },
         {
           "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
@@ -1024,49 +1232,48 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美债",
       "match_count": 3,
       "titles": [
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
+          "title": "30年美债收益率破5%将如何影响股市",
+          "url": "https://www.toutiao.com/trending/7669755735231696420/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
           "source": "财联社热门",
           "ranks": [
-            9,
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 07时59分]"
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时01分]"
         },
         {
-          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
+          "title": "三菱日联：美国支持日本稳汇率有助于缓解美债的抛压",
+          "url": "https://wallstreetcn.com/livenews/3144177",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "高盛：将应用材料(AMAT.O)、达美航空(DAL.N)、微软(MSFT.O)、联合包裹(UPS.N)等纳入美股确信买入名单。将博通(AVGO.O)、迪克体育用品(DKS.N)、强生(JNJ.N)和ServiceNow移出该名单。",
-          "url": "https://flash.jin10.com/detail/20260803181723538800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "21时41分"
         }
       ]
     },
@@ -1080,23 +1287,6 @@
           "source": "知乎",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
